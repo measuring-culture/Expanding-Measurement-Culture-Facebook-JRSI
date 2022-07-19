@@ -1,0 +1,53 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Expanding the measurement of culture with a sample
+  of two billion humans
+message: >-
+  If you use the data or code, please cite the JSRI
+  paper
+type: dataset
+authors:
+  - given-names: Nick
+    family-names: Obradovich
+    affiliation: Max Planck Institute for Human Development
+    email: obradovich@mpib-berlin.mpg.de
+  - given-names: Ömer
+    family-names: ' Özak'
+    email: ozak@smu.edu
+    affiliation: Southern Methodist University
+    orcid: 'https://orcid.org/0000-0001-6421-2801'
+  - given-names: Ignacio
+    family-names: Martín
+    affiliation: Nommon Solutions and Technologies
+    email: ignacio.martin@nommon.es
+  - given-names: Ignacio
+    family-names: Ortuño-Ortín
+    affiliation: Universidad Carlos III
+    email: iortuno@eco.uc3m.es
+  - given-names: Edmond
+    family-names: Awad
+    email: e.awad@exeter.ac.uk
+    affiliation: University of Exeter Business School
+  - given-names: Manuel
+    family-names: Cebrián
+    email: cebrian@mpib-berlin.mpg.de
+    affiliation: Max Planck Institute for Human Development
+  - given-names: Rubén
+    family-names: Cuevas
+    email: rcuevas@it.uc3m.es
+    affiliation: Universidad Carlos III
+  - given-names: Klaus
+    family-names: Desmet
+    email: kdesmet@smu.edu
+    affiliation: Southern Methodist University
+  - given-names: Iyad
+    family-names: Rahwan
+    email: rahwan@mpib-berlin.mpg.de
+    affiliation: Max Planck Institute for Human Development
+  - given-names: 'Ángel '
+    family-names: Cuevas
+    email: acrumin@it.uc3m.es
+    affiliation: Universidad Carlos III

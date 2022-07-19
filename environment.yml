@@ -1,0 +1,33 @@
+name: replication-environment
+channels:
+  - conda-forge
+  - r
+  - defaults
+dependencies:
+  - python=3.5
+  - numpy
+  - bokeh
+  - dill
+  - dask
+  - jupyter
+  - jupyter_client
+  - jupyter_console
+  - jupyter_core
+  - linearmodels
+  - matplotlib
+  - pandas
+  - pandasql
+  - partd
+  - psutil
+  - r
+  - rstudio
+  - rpy2
+  - scipy
+  - statsmodels
+  - seaborn
+  - scikit-learn
+  - toolz
+  - pip
+  - pip:
+      googledrivedownloader
+      pandas_datareader
