@@ -9,7 +9,7 @@ You can download the cultural distance data, Jupyter notebooks, or perform onlin
 
 If you use the data or code, please cite:
 ```
-Obradovich Nick, Özak Ömer, Martín Ignacio, Ortuño-Ortín Ignacio, Awad Edmond, Cebrián Manuel, Cuevas Rubén, Desmet Klaus, Rahwan Iyad and Cuevas Ángel 2022Expanding the measurement of culture with a sample of two billion humansJ. R. Soc. Interface.192022008520220085
+Obradovich Nick, Özak Ömer, Martín Ignacio, Ortuño-Ortín Ignacio, Awad Edmond, Cebrián Manuel, Cuevas Rubén, Desmet Klaus, Rahwan Iyad and Cuevas Ángel, 2022. "Expanding the measurement of culture with a sample of two billion humans", J. R. Soc. Interface. 192022008520220085
 http://doi.org/10.1098/rsif.2022.0085
 ```
 

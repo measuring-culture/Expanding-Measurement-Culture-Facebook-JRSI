@@ -1,14 +1,14 @@
 name: replication-environment
 channels:
   - conda-forge
-  - r
-  - defaults
+#  - r
+#  - defaults
 dependencies:
   - python=3.5
   - numpy
-  - bokeh
-  - dill
-  - dask
+#  - bokeh
+#  - dill
+#  - dask
   - jupyter
   - jupyter_client
   - jupyter_console
