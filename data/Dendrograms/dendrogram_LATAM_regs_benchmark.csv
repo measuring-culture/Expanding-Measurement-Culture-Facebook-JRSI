@@ -1,0 +1,926 @@
+,id,culture,continent,country,country_code,name,group,group2,group3,group4,country_group
+0,0,,,,,,0,0,0,0,-1
+1,0.1,,,,,,0-1,0-1,1,1,-1
+128,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.128,,,,,,0-1-12,0-1,1,2,-1
+129,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129,,,,,,0-1-12,0-1,1,2,-1
+568,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.Vega Alta (PR),LatinAmerica,NA,Puerto Rico,PR,Vega Alta,0-1-12,0-1,1,2,17
+569,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.142.155.159.167.191.Vega Baja (PR),LatinAmerica,NA,Puerto Rico,PR,Vega Baja,0-1-12,0-1,1,2,17
+570,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.142.155.159.167.191.208.Toa Baja (PR),LatinAmerica,NA,Puerto Rico,PR,Toa Baja,0-1-12,0-1,1,2,17
+133,0.1.12.13.17.26.34.69.87.112.114.117.123.133,,,,,,0-1-12,0-1,1,2,-1
+571,0.1.12.13.17.26.34.69.87.92.96.105.121.125.Trujillo Alto (PR),LatinAmerica,NA,Puerto Rico,PR,Trujillo Alto,0-1-12,0-1,1,2,17
+135,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.135,,,,,,0-1-12,0-1,1,2,-1
+572,0.1.12.13.17.26.34.45.47.48.Santa Isabel (PR),LatinAmerica,NA,Puerto Rico,PR,Santa Isabel,0-1-12,0-1,1,2,17
+573,0.1.12.13.17.20.22.Toa Alta (PR),LatinAmerica,NA,Puerto Rico,PR,Toa Alta,0-1-12,0-1,1,2,17
+574,0.1.12.13.17.26.34.69.87.112.114.117.123.139.140.152.156.San Sebastián (PR),LatinAmerica,NA,Puerto Rico,PR,San Sebastián,0-1-12,0-1,1,2,17
+139,0.1.12.13.17.26.34.69.87.112.114.117.123.139,,,,,,0-1-12,0-1,1,2,-1
+140,0.1.12.13.17.26.34.69.87.112.114.117.123.139.140,,,,,,0-1-12,0-1,1,2,-1
+575,0.1.12.13.17.26.34.69.87.92.96.102.San Lorenzo (PR),LatinAmerica,NA,Puerto Rico,PR,San Lorenzo,0-1-12,0-1,1,2,17
+142,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.142,,,,,,0-1-12,0-1,1,2,-1
+576,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.80.81.Salinas (PR),LatinAmerica,NA,Puerto Rico,PR,Salinas,0-1-12,0-1,1,2,17
+578,0.1.12.13.17.26.34.69.87.92.96.105.121.125.Río Grande (PR),LatinAmerica,NA,Puerto Rico,PR,Río Grande,0-1-12,0-1,1,2,17
+579,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.80.83.86.Quebradillas (PR),LatinAmerica,NA,Puerto Rico,PR,Quebradillas,0-1-12,0-1,1,2,17
+580,0.1.12.13.17.26.34.45.47.49.50.51.54.55.56.Peñuelas (PR),LatinAmerica,NA,Puerto Rico,PR,Peñuelas,0-1-12,0-1,1,2,17
+581,0.1.12.13.17.26.34.45.47.48.59.Patillas (PR),LatinAmerica,NA,Puerto Rico,PR,Patillas,0-1-12,0-1,1,2,17
+582,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.Orocovis (PR),LatinAmerica,NA,Puerto Rico,PR,Orocovis,0-1-12,0-1,1,2,17
+431,0.1.12.13.17.26.34.69.171.240.431,,,,,,0-1-12,0-1,1,2,-1
+126,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126,,,,,,0-1-12,0-1,1,2,-1
+125,0.1.12.13.17.26.34.69.87.92.96.105.121.125,,,,,,0-1-12,0-1,1,2,-1
+567,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.80.83.86.89.90.93.Utuado (PR),LatinAmerica,NA,Puerto Rico,PR,Utuado,0-1-12,0-1,1,2,17
+103,0.1.12.13.17.26.34.69.87.92.103,,,,,,0-1-12,0-1,1,2,-1
+557,0.1.12.13.17.26.32.38.40.Ceiba (PR),LatinAmerica,NA,Puerto Rico,PR,Ceiba,0-1-12,0-1,1,2,17
+105,0.1.12.13.17.26.34.69.87.92.96.105,,,,,,0-1-12,0-1,1,2,-1
+558,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.Cataño (PR),LatinAmerica,NA,Puerto Rico,PR,Cataño,0-1-12,0-1,1,2,17
+559,0.1.12.13.17.26.34.69.171.240.431.440.458.Caguas (PR),LatinAmerica,NA,Puerto Rico,PR,Caguas,0-1-12,0-1,1,2,17
+440,0.1.12.13.17.26.34.69.171.240.431.440,,,,,,0-1-12,0-1,1,2,-1
+560,0.1.12.13.17.26.34.69.171.206.296.Arecibo (PR),LatinAmerica,NA,Puerto Rico,PR,Arecibo,0-1-12,0-1,1,2,17
+561,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.80.83.86.89.Aibonito (PR),LatinAmerica,NA,Puerto Rico,PR,Aibonito,0-1-12,0-1,1,2,17
+562,0.1.12.13.17.26.34.69.171.206.Aguadilla (PR),LatinAmerica,NA,Puerto Rico,PR,Aguadilla,0-1-12,0-1,1,2,17
+112,0.1.12.13.17.26.34.69.87.112,,,,,,0-1-12,0-1,1,2,-1
+113,0.1.12.13.17.26.34.69.87.92.96.105.113,,,,,,0-1-12,0-1,1,2,-1
+114,0.1.12.13.17.26.34.69.87.112.114,,,,,,0-1-12,0-1,1,2,-1
+115,0.1.12.13.17.26.34.69.87.92.96.105.113.115,,,,,,0-1-12,0-1,1,2,-1
+116,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116,,,,,,0-1-12,0-1,1,2,-1
+117,0.1.12.13.17.26.34.69.87.112.114.117,,,,,,0-1-12,0-1,1,2,-1
+563,0.1.12.13.17.26.34.45.47.49.Rincón (PR),LatinAmerica,NA,Puerto Rico,PR,Rincón,0-1-12,0-1,1,2,17
+564,0.1.12.13.17.26.32.Vieques (PR),LatinAmerica,NA,Puerto Rico,PR,Vieques,0-1-12,0-1,1,2,17
+565,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.80.83.86.89.90.Yabucoa (PR),LatinAmerica,NA,Puerto Rico,PR,Yabucoa,0-1-12,0-1,1,2,17
+121,0.1.12.13.17.26.34.69.87.92.96.105.121,,,,,,0-1-12,0-1,1,2,-1
+566,0.1.12.13.17.26.34.45.47.48.59.60.61.63.Villalba (PR),LatinAmerica,NA,Puerto Rico,PR,Villalba,0-1-12,0-1,1,2,17
+123,0.1.12.13.17.26.34.69.87.112.114.117.123,,,,,,0-1-12,0-1,1,2,-1
+583,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.80.81.Naranjito (PR),LatinAmerica,NA,Puerto Rico,PR,Naranjito,0-1-12,0-1,1,2,17
+584,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.128.Morovis (PR),LatinAmerica,NA,Puerto Rico,PR,Morovis,0-1-12,0-1,1,2,17
+152,0.1.12.13.17.26.34.69.87.112.114.117.123.139.140.152,,,,,,0-1-12,0-1,1,2,-1
+585,0.1.12.13.17.26.34.69.87.112.114.117.Moca (PR),LatinAmerica,NA,Puerto Rico,PR,Moca,0-1-12,0-1,1,2,17
+605,0.1.12.13.17.26.34.45.47.49.50.Ciales (PR),LatinAmerica,NA,Puerto Rico,PR,Ciales,0-1-12,0-1,1,2,17
+606,0.1.12.13.17.26.34.69.87.92.96.105.121.Canóvanas (PR),LatinAmerica,NA,Puerto Rico,PR,Canóvanas,0-1-12,0-1,1,2,17
+607,0.1.12.13.17.26.34.69.87.112.114.117.123.133.Camuy (PR),LatinAmerica,NA,Puerto Rico,PR,Camuy,0-1-12,0-1,1,2,17
+608,0.1.12.13.17.26.34.69.87.112.114.117.123.139.140.152.Cabo Rojo (PR),LatinAmerica,NA,Puerto Rico,PR,Cabo Rojo,0-1-12,0-1,1,2,17
+609,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.128.Barranquitas (PR),LatinAmerica,NA,Puerto Rico,PR,Barranquitas,0-1-12,0-1,1,2,17
+610,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.80.83.Barceloneta (PR),LatinAmerica,NA,Puerto Rico,PR,Barceloneta,0-1-12,0-1,1,2,17
+611,0.1.12.13.17.26.34.69.171.240.431.440.458.Bayamón (PR),LatinAmerica,NA,Puerto Rico,PR,Bayamón,0-1-12,0-1,1,2,17
+612,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.80.83.86.89.90.93.Añasco (PR),LatinAmerica,NA,Puerto Rico,PR,Añasco,0-1-12,0-1,1,2,17
+613,0.1.12.13.17.26.34.45.47.49.50.51.54.Arroyo (PR),LatinAmerica,NA,Puerto Rico,PR,Arroyo,0-1-12,0-1,1,2,17
+614,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.Aguas Buenas (PR),LatinAmerica,NA,Puerto Rico,PR,Aguas Buenas,0-1-12,0-1,1,2,17
+615,0.1.12.13.17.26.34.69.87.112.114.117.123.139.140.Aguada (PR),LatinAmerica,NA,Puerto Rico,PR,Aguada,0-1-12,0-1,1,2,17
+616,0.1.12.13.17.26.34.45.47.49.50.51.54.55.56.Adjuntas (PR),LatinAmerica,NA,Puerto Rico,PR,Adjuntas,0-1-12,0-1,1,2,17
+191,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.142.155.159.167.191,,,,,,0-1-12,0-1,1,2,-1
+370,0.1.12.13.17.26.34.69.171.206.296.370,,,,,,0-1-12,0-1,1,2,-1
+206,0.1.12.13.17.26.34.69.171.206,,,,,,0-1-12,0-1,1,2,-1
+208,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.142.155.159.167.191.208,,,,,,0-1-12,0-1,1,2,-1
+651,0.1.12.15.18.Darién Province (PA),LatinAmerica,NA,Panama,PA,Darién Province,0-1-12,0-1,1,2,14
+240,0.1.12.13.17.26.34.69.171.240,,,,,,0-1-12,0-1,1,2,-1
+723,0.1.12.15.18.24.Gracias a Dios Department (HN),LatinAmerica,NA,Honduras,HN,Gracias a Dios Department,0-1-12,0-1,1,2,11
+296,0.1.12.13.17.26.34.69.171.206.296,,,,,,0-1-12,0-1,1,2,-1
+705,0.1.12.15.Nippes Department (HT),,NA,Haiti,HT,Nippes Department,0-1-12,0-1,1,2,10
+604,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.135.Coamo (PR),LatinAmerica,NA,Puerto Rico,PR,Coamo,0-1-12,0-1,1,2,17
+102,0.1.12.13.17.26.34.69.87.92.96.102,,,,,,0-1-12,0-1,1,2,-1
+603,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.142.Cidra (PR),LatinAmerica,NA,Puerto Rico,PR,Cidra,0-1-12,0-1,1,2,17
+601,0.1.12.13.17.26.34.45.47.48.59.60.61.64.Comerío (PR),LatinAmerica,NA,Puerto Rico,PR,Comerío,0-1-12,0-1,1,2,17
+586,0.1.12.13.17.26.34.45.47.49.50.51.54.55.Loíza (PR),LatinAmerica,NA,Puerto Rico,PR,Loíza,0-1-12,0-1,1,2,17
+155,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.142.155,,,,,,0-1-12,0-1,1,2,-1
+156,0.1.12.13.17.26.34.69.87.112.114.117.123.139.140.152.156,,,,,,0-1-12,0-1,1,2,-1
+587,0.1.12.13.17.26.32.38.Maunabo (PR),LatinAmerica,NA,Puerto Rico,PR,Maunabo,0-1-12,0-1,1,2,17
+588,0.1.12.13.17.26.34.69.171.206.296.370.Mayagüez (PR),LatinAmerica,NA,Puerto Rico,PR,Mayagüez,0-1-12,0-1,1,2,17
+159,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.142.155.159,,,,,,0-1-12,0-1,1,2,-1
+589,0.1.12.13.17.26.34.69.87.92.96.105.113.115.Manatí (PR),LatinAmerica,NA,Puerto Rico,PR,Manatí,0-1-12,0-1,1,2,17
+590,0.1.12.13.17.26.34.69.87.112.Lares (PR),LatinAmerica,NA,Puerto Rico,PR,Lares,0-1-12,0-1,1,2,17
+591,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.Lajas (PR),LatinAmerica,NA,Puerto Rico,PR,Lajas,0-1-12,0-1,1,2,17
+592,0.1.12.13.Las Marías (PR),LatinAmerica,NA,Puerto Rico,PR,Las Marías,0-1-12,0-1,1,2,17
+593,0.1.12.13.17.26.34.69.87.92.96.105.113.Juana Díaz (PR),LatinAmerica,NA,Puerto Rico,PR,Juana Díaz,0-1-12,0-1,1,2,17
+594,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.Juncos (PR),LatinAmerica,NA,Puerto Rico,PR,Juncos,0-1-12,0-1,1,2,17
+595,0.1.12.13.17.26.34.45.47.49.50.51.52.Jayuya (PR),LatinAmerica,NA,Puerto Rico,PR,Jayuya,0-1-12,0-1,1,2,17
+167,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.142.155.159.167,,,,,,0-1-12,0-1,1,2,-1
+596,0.1.12.13.17.26.34.69.87.112.114.117.123.133.Hatillo (PR),LatinAmerica,NA,Puerto Rico,PR,Hatillo,0-1-12,0-1,1,2,17
+597,0.1.12.13.17.26.34.69.87.92.103.Gurabo (PR),LatinAmerica,NA,Puerto Rico,PR,Gurabo,0-1-12,0-1,1,2,17
+825,0.1.12.15.18.24.Vaupes (CO),LatinAmerica,SA,Colombia,CO,Vaupes,0-1-12,0-1,1,2,4
+171,0.1.12.13.17.26.34.69.171,,,,,,0-1-12,0-1,1,2,-1
+598,0.1.12.13.17.26.34.45.47.48.59.60.61.63.67.Guayanilla (PR),LatinAmerica,NA,Puerto Rico,PR,Guayanilla,0-1-12,0-1,1,2,17
+599,0.1.12.13.17.26.34.45.47.49.50.51.52.Guánica (PR),LatinAmerica,NA,Puerto Rico,PR,Guánica,0-1-12,0-1,1,2,17
+600,0.1.12.13.17.26.34.45.Florida (PR),LatinAmerica,NA,Puerto Rico,PR,Florida,0-1-12,0-1,1,2,17
+602,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.142.155.159.167.Corozal (PR),LatinAmerica,NA,Puerto Rico,PR,Corozal,0-1-12,0-1,1,2,17
+556,0.1.12.13.17.26.34.69.171.240.431.440.Carolina (PR),LatinAmerica,NA,Puerto Rico,PR,Carolina,0-1-12,0-1,1,2,17
+577,0.1.12.13.17.26.34.69.87.112.114.San Germán (PR),LatinAmerica,NA,Puerto Rico,PR,San Germán,0-1-12,0-1,1,2,17
+554,0.1.12.13.17.20.Culebra (PR),LatinAmerica,NA,Puerto Rico,PR,Culebra,0-1-12,0-1,1,2,17
+539,0.1.12.13.17.26.34.69.87.112.114.117.123.139.Yauco (PR),LatinAmerica,NA,Puerto Rico,PR,Yauco,0-1-12,0-1,1,2,17
+64,0.1.12.13.17.26.34.45.47.48.59.60.61.64,,,,,,0-1-12,0-1,1,2,-1
+63,0.1.12.13.17.26.34.45.47.48.59.60.61.63,,,,,,0-1-12,0-1,1,2,-1
+61,0.1.12.13.17.26.34.45.47.48.59.60.61,,,,,,0-1-12,0-1,1,2,-1
+60,0.1.12.13.17.26.34.45.47.48.59.60,,,,,,0-1-12,0-1,1,2,-1
+59,0.1.12.13.17.26.34.45.47.48.59,,,,,,0-1-12,0-1,1,2,-1
+56,0.1.12.13.17.26.34.45.47.49.50.51.54.55.56,,,,,,0-1-12,0-1,1,2,-1
+55,0.1.12.13.17.26.34.45.47.49.50.51.54.55,,,,,,0-1-12,0-1,1,2,-1
+54,0.1.12.13.17.26.34.45.47.49.50.51.54,,,,,,0-1-12,0-1,1,2,-1
+52,0.1.12.13.17.26.34.45.47.49.50.51.52,,,,,,0-1-12,0-1,1,2,-1
+51,0.1.12.13.17.26.34.45.47.49.50.51,,,,,,0-1-12,0-1,1,2,-1
+50,0.1.12.13.17.26.34.45.47.49.50,,,,,,0-1-12,0-1,1,2,-1
+49,0.1.12.13.17.26.34.45.47.49,,,,,,0-1-12,0-1,1,2,-1
+48,0.1.12.13.17.26.34.45.47.48,,,,,,0-1-12,0-1,1,2,-1
+47,0.1.12.13.17.26.34.45.47,,,,,,0-1-12,0-1,1,2,-1
+45,0.1.12.13.17.26.34.45,,,,,,0-1-12,0-1,1,2,-1
+40,0.1.12.13.17.26.32.38.40,,,,,,0-1-12,0-1,1,2,-1
+34,0.1.12.13.17.26.34,,,,,,0-1-12,0-1,1,2,-1
+32,0.1.12.13.17.26.32,,,,,,0-1-12,0-1,1,2,-1
+26,0.1.12.13.17.26,,,,,,0-1-12,0-1,1,2,-1
+24,0.1.12.15.18.24,,,,,,0-1-12,0-1,1,2,-1
+22,0.1.12.13.17.20.22,,,,,,0-1-12,0-1,1,2,-1
+20,0.1.12.13.17.20,,,,,,0-1-12,0-1,1,2,-1
+18,0.1.12.15.18,,,,,,0-1-12,0-1,1,2,-1
+17,0.1.12.13.17,,,,,,0-1-12,0-1,1,2,-1
+15,0.1.12.15,,,,,,0-1-12,0-1,1,2,-1
+13,0.1.12.13,,,,,,0-1-12,0-1,1,2,-1
+12,0.1.12,,,,,,0-1-12,0-1,1,2,-1
+555,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.142.155.159.Cayey (PR),LatinAmerica,NA,Puerto Rico,PR,Cayey,0-1-12,0-1,1,2,17
+66,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66,,,,,,0-1-12,0-1,1,2,-1
+67,0.1.12.13.17.26.34.45.47.48.59.60.61.63.67,,,,,,0-1-12,0-1,1,2,-1
+38,0.1.12.13.17.26.32.38,,,,,,0-1-12,0-1,1,2,-1
+69,0.1.12.13.17.26.34.69,,,,,,0-1-12,0-1,1,2,-1
+546,0.1.12.13.17.26.34.69.87.92.96.102.Las Piedras (PR),LatinAmerica,NA,Puerto Rico,PR,Las Piedras,0-1-12,0-1,1,2,17
+547,0.1.12.13.17.26.32.38.40.Hormigueros (PR),LatinAmerica,NA,Puerto Rico,PR,Hormigueros,0-1-12,0-1,1,2,17
+86,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.80.83.86,,,,,,0-1-12,0-1,1,2,-1
+87,0.1.12.13.17.26.34.69.87,,,,,,0-1-12,0-1,1,2,-1
+548,0.1.12.13.17.26.34.69.87.112.114.117.123.139.140.152.156.Isabela (PR),LatinAmerica,NA,Puerto Rico,PR,Isabela,0-1-12,0-1,1,2,17
+89,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.80.83.86.89,,,,,,0-1-12,0-1,1,2,-1
+90,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.80.83.86.89.90,,,,,,0-1-12,0-1,1,2,-1
+68,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68,,,,,,0-1-12,0-1,1,2,-1
+92,0.1.12.13.17.26.34.69.87.92,,,,,,0-1-12,0-1,1,2,-1
+93,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.80.83.86.89.90.93,,,,,,0-1-12,0-1,1,2,-1
+550,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.135.Guayama (PR),LatinAmerica,NA,Puerto Rico,PR,Guayama,0-1-12,0-1,1,2,17
+551,0.1.12.13.17.26.34.69.171.240.Guaynabo (PR),LatinAmerica,NA,Puerto Rico,PR,Guaynabo,0-1-12,0-1,1,2,17
+96,0.1.12.13.17.26.34.69.87.92.96,,,,,,0-1-12,0-1,1,2,-1
+552,0.1.12.13.17.26.34.69.87.92.103.Fajardo (PR),LatinAmerica,NA,Puerto Rico,PR,Fajardo,0-1-12,0-1,1,2,17
+553,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.142.155.Dorado (PR),LatinAmerica,NA,Puerto Rico,PR,Dorado,0-1-12,0-1,1,2,17
+83,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.80.83,,,,,,0-1-12,0-1,1,2,-1
+545,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.Luquillo (PR),LatinAmerica,NA,Puerto Rico,PR,Luquillo,0-1-12,0-1,1,2,17
+549,0.1.12.13.17.26.34.69.87.92.96.105.113.115.116.126.129.142.155.159.167.191.208.Humacao (PR),LatinAmerica,NA,Puerto Rico,PR,Humacao,0-1-12,0-1,1,2,17
+80,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.80,,,,,,0-1-12,0-1,1,2,-1
+540,0.1.12.13.17.26.34.69.171.240.431.San Juan (PR),LatinAmerica,NA,Puerto Rico,PR,San Juan,0-1-12,0-1,1,2,17
+81,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79.80.81,,,,,,0-1-12,0-1,1,2,-1
+72,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72,,,,,,0-1-12,0-1,1,2,-1
+73,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73,,,,,,0-1-12,0-1,1,2,-1
+542,0.1.12.13.17.26.34.69.171.206.296.370.Ponce (PR),LatinAmerica,NA,Puerto Rico,PR,Ponce,0-1-12,0-1,1,2,17
+458,0.1.12.13.17.26.34.69.171.240.431.440.458,,,,,,0-1-12,0-1,1,2,-1
+76,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76,,,,,,0-1-12,0-1,1,2,-1
+543,0.1.12.13.17.26.34.45.47.48.59.60.Naguabo (PR),LatinAmerica,NA,Puerto Rico,PR,Naguabo,0-1-12,0-1,1,2,17
+541,0.1.12.13.17.26.34.45.47.48.59.60.61.63.67.Sabana Grande (PR),LatinAmerica,NA,Puerto Rico,PR,Sabana Grande,0-1-12,0-1,1,2,17
+79,0.1.12.13.17.26.34.45.47.48.59.60.61.64.66.68.72.73.76.79,,,,,,0-1-12,0-1,1,2,-1
+544,0.1.12.13.17.20.22.Maricao (PR),LatinAmerica,NA,Puerto Rico,PR,Maricao,0-1-12,0-1,1,2,17
+678,0.1.2.8.9.11.14.23.120.143.227.334.Tabasco (MX),LatinAmerica,NA,Mexico,MX,Tabasco,0-1-2,0-1,1,3,12
+677,0.1.2.8.9.11.14.23.120.153.187.219.295.Tamaulipas (MX),LatinAmerica,NA,Mexico,MX,Tamaulipas,0-1-2,0-1,1,3,12
+676,0.1.2.8.9.11.14.23.120.143.226.322.378.457.Tlaxcala (MX),LatinAmerica,NA,Mexico,MX,Tlaxcala,0-1-2,0-1,1,3,12
+675,0.1.2.8.9.11.14.23.120.143.226.322.403.Veracruz (MX),LatinAmerica,NA,Mexico,MX,Veracruz,0-1-2,0-1,1,3,12
+674,0.1.2.8.9.11.14.23.120.143.227.336.Yucatán (MX),LatinAmerica,NA,Mexico,MX,Yucatán,0-1-2,0-1,1,3,12
+673,0.1.2.8.9.11.14.23.120.153.168.223.244.270.321.Zacatecas (MX),LatinAmerica,NA,Mexico,MX,Zacatecas,0-1-2,0-1,1,3,12
+672,0.1.2.8.9.11.14.23.36.42.43.74.95.136.180.209.238.Boaco Department (NI),,NA,Nicaragua,NI,Boaco Department,0-1-2,0-1,1,3,13
+671,0.1.2.8.9.11.14.23.36.42.43.74.95.136.205.Carazo Department (NI),,NA,Nicaragua,NI,Carazo Department,0-1-2,0-1,1,3,13
+670,0.1.2.8.9.11.14.23.36.42.43.74.95.136.205.228.265.308.430.Chinandega Department (NI),,NA,Nicaragua,NI,Chinandega Department,0-1-2,0-1,1,3,13
+669,0.1.2.8.9.11.14.23.36.42.43.74.95.136.180.209.238.281.Chontales Department (NI),,NA,Nicaragua,NI,Chontales Department,0-1-2,0-1,1,3,13
+668,0.1.2.8.9.11.14.23.36.42.43.74.95.136.180.209.249.288.374.Estelí Department (NI),,NA,Nicaragua,NI,Estelí Department,0-1-2,0-1,1,3,13
+667,0.1.2.8.9.11.14.23.36.42.43.74.95.136.205.228.265.Granada Department (NI),,NA,Nicaragua,NI,Granada Department,0-1-2,0-1,1,3,13
+666,0.1.2.8.9.11.14.23.36.42.43.74.95.136.180.209.249.288.Jinotega Department (NI),,NA,Nicaragua,NI,Jinotega Department,0-1-2,0-1,1,3,13
+665,0.1.2.8.9.11.14.23.36.42.43.74.95.136.205.228.265.308.430.León Department (NI),,NA,Nicaragua,NI,León Department,0-1-2,0-1,1,3,13
+506,0.1.2.8.9.11.14.23.36.42.43.162.186.247.297.359.Usulután Department (SV),LatinAmerica,NA,El Salvador,SV,Usulután Department,0-1-2,0-1,1,3,8
+664,0.1.2.8.9.11.14.23.36.42.43.74.95.Madriz Department (NI),,NA,Nicaragua,NI,Madriz Department,0-1-2,0-1,1,3,13
+663,0.1.2.8.9.11.14.23.36.42.43.74.95.136.205.228.265.308.397.Managua Department (NI),,NA,Nicaragua,NI,Managua Department,0-1-2,0-1,1,3,13
+662,0.1.2.8.9.11.14.23.36.42.43.74.95.136.205.228.265.308.397.Masaya Department (NI),,NA,Nicaragua,NI,Masaya Department,0-1-2,0-1,1,3,13
+661,0.1.2.8.9.11.14.23.36.42.43.74.95.136.180.209.249.288.374.Matagalpa Department (NI),,NA,Nicaragua,NI,Matagalpa Department,0-1-2,0-1,1,3,13
+660,0.1.2.8.9.11.14.23.36.42.43.74.95.136.180.209.249.Nueva Segovia Department (NI),,NA,Nicaragua,NI,Nueva Segovia Department,0-1-2,0-1,1,3,13
+659,0.1.2.8.9.11.14.23.36.42.43.74.Río San Juan Department (NI),,NA,Nicaragua,NI,Río San Juan Department,0-1-2,0-1,1,3,13
+658,0.1.2.8.9.11.14.23.36.42.43.74.95.136.205.228.Rivas Department (NI),,NA,Nicaragua,NI,Rivas Department,0-1-2,0-1,1,3,13
+657,0.1.2.8.9.11.14.23.36.42.43.74.95.136.180.North Caribbean Coast Autonomous Region (NI),,NA,Nicaragua,NI,North Caribbean Coast Autonomous Region,0-1-2,0-1,1,3,13
+656,0.1.2.8.9.11.14.23.36.42.43.74.95.136.180.209.238.281.South Caribbean Coast Autonomous Region (NI),,NA,Nicaragua,NI,South Caribbean Coast Autonomous Region,0-1-2,0-1,1,3,13
+655,0.1.2.8.9.11.16.19.29.31.91.94.Bocas del Toro Province (PA),LatinAmerica,NA,Panama,PA,Bocas del Toro Province,0-1-2,0-1,1,3,14
+654,0.1.2.8.9.11.16.19.29.31.91.94.145.175.235.286.Chiriquí Province (PA),LatinAmerica,NA,Panama,PA,Chiriquí Province,0-1-2,0-1,1,3,14
+653,0.1.2.8.9.11.16.19.29.31.91.94.145.175.235.Coclé Province (PA),LatinAmerica,NA,Panama,PA,Coclé Province,0-1-2,0-1,1,3,14
+679,0.1.2.8.9.11.14.23.120.153.187.237.276.366.Sonora (MX),LatinAmerica,NA,Mexico,MX,Sonora,0-1-2,0-1,1,3,12
+680,0.1.2.8.9.11.14.23.120.153.187.237.276.366.Sinaloa (MX),LatinAmerica,NA,Mexico,MX,Sinaloa,0-1-2,0-1,1,3,12
+652,0.1.2.8.9.11.16.19.29.31.91.94.145.204.Colon (PA),LatinAmerica,NA,Panama,PA,Colon,0-1-2,0-1,1,3,14
+681,0.1.2.8.9.11.14.23.120.153.168.223.244.270.San Luis Potosí (MX),LatinAmerica,NA,Mexico,MX,San Luis Potosí,0-1-2,0-1,1,3,12
+699,0.1.2.8.9.11.14.23.120.153.187.219.295.328.Chihuahua (MX),LatinAmerica,NA,Mexico,MX,Chihuahua,0-1-2,0-1,1,3,12
+698,0.1.2.8.9.11.14.23.120.153.187.219.295.328.410.Coahuila de Zaragoza (MX),LatinAmerica,NA,Mexico,MX,Coahuila de Zaragoza,0-1-2,0-1,1,3,12
+697,0.1.2.8.9.11.14.23.120.153.168.223.303.354.Colima (MX),LatinAmerica,NA,Mexico,MX,Colima,0-1-2,0-1,1,3,12
+696,0.1.2.8.9.11.14.23.120.153.168.258.Distrito Federal (MX),LatinAmerica,NA,Mexico,MX,Distrito Federal,0-1-2,0-1,1,3,12
+700,0.1.2.8.9.11.14.23.120.143.226.357.415.Chiapas (MX),LatinAmerica,NA,Mexico,MX,Chiapas,0-1-2,0-1,1,3,12
+695,0.1.2.8.9.11.14.23.120.153.187.219.295.328.410.Durango (MX),LatinAmerica,NA,Mexico,MX,Durango,0-1-2,0-1,1,3,12
+694,0.1.2.8.9.11.14.23.120.153.168.223.244.270.321.341.Guanajuato (MX),LatinAmerica,NA,Mexico,MX,Guanajuato,0-1-2,0-1,1,3,12
+693,0.1.2.8.9.11.14.23.120.143.226.357.Guerrero (MX),LatinAmerica,NA,Mexico,MX,Guerrero,0-1-2,0-1,1,3,12
+692,0.1.2.8.9.11.14.23.120.143.226.322.378.424.Hidalgo (MX),LatinAmerica,NA,Mexico,MX,Hidalgo,0-1-2,0-1,1,3,12
+691,0.1.2.8.9.11.14.23.120.153.168.223.303.Jalisco (MX),LatinAmerica,NA,Mexico,MX,Jalisco,0-1-2,0-1,1,3,12
+503,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.192.198.215.Cerro Largo Department (UY),LatinAmerica,SA,Uruguay,UY,Cerro Largo Department,0-1-2,0-1,1,3,18
+690,0.1.2.8.9.11.14.23.120.143.226.322.378.424.State of Mexico (MX),LatinAmerica,NA,Mexico,MX,State of Mexico,0-1-2,0-1,1,3,12
+706,0.1.2.8.28.44.57.58.65.Sud-Est Department (HT),,NA,Haiti,HT,Sud-Est Department,0-1-2,0-1,1,3,10
+505,0.1.2.8.9.11.16.19.29.37.75.119.214.Artigas Department (UY),LatinAmerica,SA,Uruguay,UY,Artigas Department,0-1-2,0-1,1,3,18
+689,0.1.2.8.9.11.14.23.120.153.168.223.244.270.321.341.Michoacán de Ocampo (MX),LatinAmerica,NA,Mexico,MX,Michoacán de Ocampo,0-1-2,0-1,1,3,12
+688,0.1.2.8.9.11.14.23.120.143.226.322.403.Morelos (MX),LatinAmerica,NA,Mexico,MX,Morelos,0-1-2,0-1,1,3,12
+701,0.1.2.8.9.11.14.23.120.143.227.334.Campeche (MX),LatinAmerica,NA,Mexico,MX,Campeche,0-1-2,0-1,1,3,12
+687,0.1.2.8.9.11.14.23.120.153.168.223.303.354.Nayarit (MX),LatinAmerica,NA,Mexico,MX,Nayarit,0-1-2,0-1,1,3,12
+702,0.1.2.8.9.11.14.23.120.153.187.237.Baja California Sur (MX),LatinAmerica,NA,Mexico,MX,Baja California Sur,0-1-2,0-1,1,3,12
+703,0.1.2.8.9.11.14.23.120.153.187.237.276.Baja California (MX),LatinAmerica,NA,Mexico,MX,Baja California,0-1-2,0-1,1,3,12
+686,0.1.2.8.9.11.14.23.120.153.187.219.Nuevo Leon (MX),LatinAmerica,NA,Mexico,MX,Nuevo Leon,0-1-2,0-1,1,3,12
+708,0.1.2.8.28.44.57.58.65.304.392.Ouest Department (HT),,NA,Haiti,HT,Ouest Department,0-1-2,0-1,1,3,10
+685,0.1.2.8.9.11.14.23.120.143.226.357.415.Oaxaca (MX),LatinAmerica,NA,Mexico,MX,Oaxaca,0-1-2,0-1,1,3,12
+704,0.1.2.8.9.11.14.23.120.153.168.223.244.Aguascalientes (MX),LatinAmerica,NA,Mexico,MX,Aguascalientes,0-1-2,0-1,1,3,12
+504,0.1.2.8.9.11.16.19.29.37.75.119.130.177.345.387.Canelones Department (UY),LatinAmerica,SA,Uruguay,UY,Canelones Department,0-1-2,0-1,1,3,18
+684,0.1.2.8.9.11.14.23.120.143.226.322.378.457.Puebla (MX),LatinAmerica,NA,Mexico,MX,Puebla,0-1-2,0-1,1,3,12
+683,0.1.2.8.9.11.14.23.120.153.168.258.Querétaro Arteaga (MX),LatinAmerica,NA,Mexico,MX,Querétaro Arteaga,0-1-2,0-1,1,3,12
+682,0.1.2.8.9.11.14.23.120.143.227.336.Quintana Roo (MX),LatinAmerica,NA,Mexico,MX,Quintana Roo,0-1-2,0-1,1,3,12
+707,0.1.2.8.28.44.Sud Department (HT),,NA,Haiti,HT,Sud Department,0-1-2,0-1,1,3,10
+507,0.1.2.8.9.11.14.23.36.42.43.162.186.282.298.301.412.443.Sonsonate Department (SV),LatinAmerica,NA,El Salvador,SV,Sonsonate Department,0-1-2,0-1,1,3,8
+619,0.1.2.8.9.11.14.109.149.182.381.391.Tacna Region (PE),LatinAmerica,SA,Peru,PE,Tacna Region,0-1-2,0-1,1,3,16
+649,0.1.2.8.9.11.16.19.29.31.91.Los Santos Province (PA),LatinAmerica,NA,Panama,PA,Los Santos Province,0-1-2,0-1,1,3,14
+512,0.1.2.8.9.11.14.23.36.42.43.162.186.247.Morazán Department (SV),LatinAmerica,NA,El Salvador,SV,Morazán Department,0-1-2,0-1,1,3,8
+513,0.1.2.8.9.11.14.23.36.42.43.162.186.247.297.359.La Unión Department (SV),LatinAmerica,NA,El Salvador,SV,La Unión Department,0-1-2,0-1,1,3,8
+514,0.1.2.8.9.11.14.23.36.42.43.162.186.282.298.301.412.La Paz Department (SV),LatinAmerica,NA,El Salvador,SV,La Paz Department,0-1-2,0-1,1,3,8
+515,0.1.2.8.9.11.14.23.36.42.43.162.396.450.La Libertad Department (SV),LatinAmerica,NA,El Salvador,SV,La Libertad Department,0-1-2,0-1,1,3,8
+516,0.1.2.8.9.11.14.23.36.42.43.162.186.282.Cuscatlán Department (SV),LatinAmerica,NA,El Salvador,SV,Cuscatlán Department,0-1-2,0-1,1,3,8
+517,0.1.2.8.9.11.14.23.36.42.43.162.186.282.298.301.351.Chalatenango Department (SV),LatinAmerica,NA,El Salvador,SV,Chalatenango Department,0-1-2,0-1,1,3,8
+518,0.1.2.8.9.11.14.23.36.42.43.162.186.282.298.301.351.Cabañas Department (SV),LatinAmerica,NA,El Salvador,SV,Cabañas Department,0-1-2,0-1,1,3,8
+519,0.1.2.8.9.11.14.23.36.42.43.162.186.282.298.301.412.443.Ahuachapán Department (SV),LatinAmerica,NA,El Salvador,SV,Ahuachapán Department,0-1-2,0-1,1,3,8
+521,0.1.2.8.9.11.16.19.25.27.35.88.Boquerón department (PY),LatinAmerica,SA,Paraguay,PY,Boquerón department,0-1-2,0-1,1,3,15
+522,0.1.2.8.9.11.16.19.25.27.35.88.107.Asunción (PY),LatinAmerica,SA,Paraguay,PY,Asunción,0-1-2,0-1,1,3,15
+523,0.1.2.8.9.11.16.19.25.27.35.Alto Paraguay Department (PY),LatinAmerica,SA,Paraguay,PY,Alto Paraguay Department,0-1-2,0-1,1,3,15
+524,0.1.2.8.9.11.16.19.25.27.35.88.107.124.207.256.Canindeyú Department (PY),LatinAmerica,SA,Paraguay,PY,Canindeyú Department,0-1-2,0-1,1,3,15
+525,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.231.259.291.352.San Pedro Department (PY),LatinAmerica,SA,Paraguay,PY,San Pedro Department,0-1-2,0-1,1,3,15
+526,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.Presidente Hayes Department (PY),LatinAmerica,SA,Paraguay,PY,Presidente Hayes Department,0-1-2,0-1,1,3,15
+527,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.231.287.325.Paraguarí Department (PY),LatinAmerica,SA,Paraguay,PY,Paraguarí Department,0-1-2,0-1,1,3,15
+528,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.Ñeembucú Department (PY),LatinAmerica,SA,Paraguay,PY,Ñeembucú Department,0-1-2,0-1,1,3,15
+529,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.Misiones Department (PY),LatinAmerica,SA,Paraguay,PY,Misiones Department,0-1-2,0-1,1,3,15
+530,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.231.287.Itapúa Department (PY),LatinAmerica,SA,Paraguay,PY,Itapúa Department,0-1-2,0-1,1,3,15
+531,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.231.259.Guairá Department (PY),LatinAmerica,SA,Paraguay,PY,Guairá Department,0-1-2,0-1,1,3,15
+532,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.231.287.325.383.Cordillera Department (PY),LatinAmerica,SA,Paraguay,PY,Cordillera Department,0-1-2,0-1,1,3,15
+533,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.231.259.291.Concepción Department (PY),LatinAmerica,SA,Paraguay,PY,Concepción Department,0-1-2,0-1,1,3,15
+534,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.231.287.325.383.Central Department (PY),LatinAmerica,SA,Paraguay,PY,Central Department,0-1-2,0-1,1,3,15
+535,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.Caazapá Department (PY),LatinAmerica,SA,Paraguay,PY,Caazapá Department,0-1-2,0-1,1,3,15
+709,0.1.2.8.28.44.57.58.Nord-Est Department (HT),,NA,Haiti,HT,Nord-Est Department,0-1-2,0-1,1,3,10
+536,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.231.259.291.352.Caaguazú Department (PY),LatinAmerica,SA,Paraguay,PY,Caaguazú Department,0-1-2,0-1,1,3,15
+537,0.1.2.8.9.11.16.19.25.27.35.88.107.124.207.256.Amambay Department (PY),LatinAmerica,SA,Paraguay,PY,Amambay Department,0-1-2,0-1,1,3,15
+538,0.1.2.8.9.11.16.19.25.27.35.88.107.124.207.Alto Paraná Department (PY),LatinAmerica,SA,Paraguay,PY,Alto Paraná Department,0-1-2,0-1,1,3,15
+511,0.1.2.8.9.11.14.23.36.42.43.162.186.247.297.San Miguel Department (SV),LatinAmerica,NA,El Salvador,SV,San Miguel Department,0-1-2,0-1,1,3,8
+617,0.1.2.8.9.11.14.109.149.216.264.285.376.429.Ucayali Region (PE),LatinAmerica,SA,Peru,PE,Ucayali Region,0-1-2,0-1,1,3,16
+618,0.1.2.8.9.11.14.109.149.216.264.285.Tumbes Region (PE),LatinAmerica,SA,Peru,PE,Tumbes Region,0-1-2,0-1,1,3,16
+620,0.1.2.8.9.11.14.109.149.216.264.285.376.429.San Martín Region (PE),LatinAmerica,SA,Peru,PE,San Martín Region,0-1-2,0-1,1,3,16
+648,0.1.2.8.9.11.16.19.29.31.91.94.145.204.Panama (PA),LatinAmerica,NA,Panama,PA,Panama,0-1-2,0-1,1,3,14
+647,0.1.2.8.9.San Blas (PA),LatinAmerica,NA,Panama,PA,San Blas,0-1-2,0-1,1,3,14
+646,0.1.2.8.9.11.16.19.29.31.91.94.145.175.235.286.Veraguas Province (PA),LatinAmerica,NA,Panama,PA,Veraguas Province,0-1-2,0-1,1,3,14
+644,0.1.2.10.Guna Yala (PA),LatinAmerica,NA,Panama,PA,Guna Yala,0-1-2,0-1,1,3,14
+641,0.1.2.8.9.11.14.109.149.216.423.Amazonas Region (PE),LatinAmerica,SA,Peru,PE,Amazonas Region,0-1-2,0-1,1,3,16
+640,0.1.2.8.9.11.14.109.149.216.264.395.420.448.Ancash Region (PE),LatinAmerica,SA,Peru,PE,Ancash Region,0-1-2,0-1,1,3,16
+639,0.1.2.8.9.11.14.109.250.255.273.330.413.Apurímac Region (PE),LatinAmerica,SA,Peru,PE,Apurímac Region,0-1-2,0-1,1,3,16
+638,0.1.2.8.9.11.14.109.149.182.381.391.Arequipa Region (PE),LatinAmerica,SA,Peru,PE,Arequipa Region,0-1-2,0-1,1,3,16
+637,0.1.2.8.9.11.14.109.250.255.273.330.360.417.445.Ayacucho Region (PE),LatinAmerica,SA,Peru,PE,Ayacucho Region,0-1-2,0-1,1,3,16
+636,0.1.2.8.9.11.14.109.149.216.423.Cajamarca Region (PE),LatinAmerica,SA,Peru,PE,Cajamarca Region,0-1-2,0-1,1,3,16
+635,0.1.2.8.9.11.14.109.149.182.456.Callao (PE),LatinAmerica,SA,Peru,PE,Callao,0-1-2,0-1,1,3,16
+634,0.1.2.8.9.11.14.109.250.255.273.330.413.Cusco Region (PE),LatinAmerica,SA,Peru,PE,Cusco Region,0-1-2,0-1,1,3,16
+633,0.1.2.8.9.11.14.109.250.Huancavelica Region (PE),LatinAmerica,SA,Peru,PE,Huancavelica Region,0-1-2,0-1,1,3,16
+650,0.1.2.8.9.11.16.19.29.31.91.94.145.175.Herrera (PA),LatinAmerica,NA,Panama,PA,Herrera,0-1-2,0-1,1,3,14
+632,0.1.2.8.9.11.14.109.250.255.273.330.360.417.Huánuco Region (PE),LatinAmerica,SA,Peru,PE,Huánuco Region,0-1-2,0-1,1,3,16
+508,0.1.2.8.9.11.14.23.36.42.43.162.186.282.298.San Vicente Department (SV),LatinAmerica,NA,El Salvador,SV,San Vicente Department,0-1-2,0-1,1,3,8
+630,0.1.2.8.9.11.14.109.250.255.273.330.360.417.445.Junin (PE),LatinAmerica,SA,Peru,PE,Junin,0-1-2,0-1,1,3,16
+509,0.1.2.8.9.11.14.23.36.42.43.162.396.Santa Ana Department (SV),LatinAmerica,NA,El Salvador,SV,Santa Ana Department,0-1-2,0-1,1,3,8
+629,0.1.2.8.9.11.14.109.149.216.264.395.420.448.La Libertad Region (PE),LatinAmerica,SA,Peru,PE,La Libertad Region,0-1-2,0-1,1,3,16
+628,0.1.2.8.9.11.14.109.149.216.264.395.455.Lambayeque Region (PE),LatinAmerica,SA,Peru,PE,Lambayeque Region,0-1-2,0-1,1,3,16
+510,0.1.2.8.9.11.14.23.36.42.43.162.396.450.San Salvador Department (SV),LatinAmerica,NA,El Salvador,SV,San Salvador Department,0-1-2,0-1,1,3,8
+627,0.1.2.8.9.11.14.109.149.182.456.Lima Region (PE),LatinAmerica,SA,Peru,PE,Lima Region,0-1-2,0-1,1,3,16
+626,0.1.2.8.9.11.14.109.149.216.264.285.376.Loreto Region (PE),LatinAmerica,SA,Peru,PE,Loreto Region,0-1-2,0-1,1,3,16
+625,0.1.2.8.9.11.14.109.250.255.273.Madre de Dios Region (PE),LatinAmerica,SA,Peru,PE,Madre de Dios Region,0-1-2,0-1,1,3,16
+624,0.1.2.8.9.11.14.109.149.182.381.Moquegua Region (PE),LatinAmerica,SA,Peru,PE,Moquegua Region,0-1-2,0-1,1,3,16
+623,0.1.2.8.9.11.14.109.250.255.273.330.360.Pasco Region (PE),LatinAmerica,SA,Peru,PE,Pasco Region,0-1-2,0-1,1,3,16
+622,0.1.2.8.9.11.14.109.149.216.264.395.455.Piura Region (PE),LatinAmerica,SA,Peru,PE,Piura Region,0-1-2,0-1,1,3,16
+621,0.1.2.8.9.11.14.109.250.255.Puno Region (PE),LatinAmerica,SA,Peru,PE,Puno Region,0-1-2,0-1,1,3,16
+631,0.1.2.8.9.11.14.109.149.216.264.395.420.Ica Region (PE),LatinAmerica,SA,Peru,PE,Ica Region,0-1-2,0-1,1,3,16
+710,0.1.2.8.28.44.57.58.65.304.Nord Department (HT),,NA,Haiti,HT,Nord Department,0-1-2,0-1,1,3,10
+750,0.1.2.8.9.11.14.23.36.100.141.179.197.233.263.332.385.Chiquimula Department (GT),LatinAmerica,NA,Guatemala,GT,Chiquimula Department,0-1-2,0-1,1,3,9
+712,0.1.2.8.28.44.57.58.65.304.392.Artibonite Department (HT),,NA,Haiti,HT,Artibonite Department,0-1-2,0-1,1,3,10
+848,0.1.2.8.9.11.16.19.25.46.70.85.106.164.190.195.241.Arauca (CO),LatinAmerica,SA,Colombia,CO,Arauca,0-1-2,0-1,1,3,4
+849,0.1.2.8.9.11.16.19.25.46.70.85.106.242.290.324.Antioquia (CO),LatinAmerica,SA,Colombia,CO,Antioquia,0-1-2,0-1,1,3,4
+850,0.1.2.8.9.11.16.19.25.46.53.Amazonas (CO),LatinAmerica,SA,Colombia,CO,Amazonas,0-1-2,0-1,1,3,4
+851,0.1.2.8.9.11.16.19.29.31.39.97.166.203.373.398.Tarapacá Region (CL),LatinAmerica,SA,Chile,CL,Tarapacá Region,0-1-2,0-1,1,3,3
+852,0.1.2.8.9.11.16.19.29.31.39.97.166.203.229.365.Santiago Metropolitan Region (CL),LatinAmerica,SA,Chile,CL,Santiago Metropolitan Region,0-1-2,0-1,1,3,3
+853,0.1.2.8.9.11.16.19.29.31.39.97.166.203.229.289.386.439.Maule Region (CL),LatinAmerica,SA,Chile,CL,Maule Region,0-1-2,0-1,1,3,3
+854,0.1.2.8.9.11.16.19.29.31.39.97.166.254.Magallanes y la Antártica Chilena Region (CL),LatinAmerica,SA,Chile,CL,Magallanes y la Antártica Chilena Region,0-1-2,0-1,1,3,3
+855,0.1.2.8.9.11.16.19.29.31.39.97.166.203.229.289.386.Los Lagos Region (CL),LatinAmerica,SA,Chile,CL,Los Lagos Region,0-1-2,0-1,1,3,3
+856,0.1.2.8.9.11.16.19.29.31.39.97.166.203.229.365.428.Coquimbo Region (CL),LatinAmerica,SA,Chile,CL,Coquimbo Region,0-1-2,0-1,1,3,3
+857,0.1.2.8.9.11.16.19.29.31.39.97.166.203.229.289.386.439.442.Bío Bío Region (CL),LatinAmerica,SA,Chile,CL,Bío Bío Region,0-1-2,0-1,1,3,3
+847,0.1.2.8.9.11.16.19.25.46.70.85.101.148.220.326.Atlantico (CO),LatinAmerica,SA,Colombia,CO,Atlantico,0-1-2,0-1,1,3,4
+858,0.1.2.8.9.11.16.19.29.31.39.97.166.203.229.289.Atacama Region (CL),LatinAmerica,SA,Chile,CL,Atacama Region,0-1-2,0-1,1,3,3
+860,0.1.2.8.9.11.16.19.29.31.39.97.166.203.373.Antofagasta Region (CL),LatinAmerica,SA,Chile,CL,Antofagasta Region,0-1-2,0-1,1,3,3
+861,0.1.2.8.9.11.16.19.29.31.39.97.166.254.Aysén Region (CL),LatinAmerica,SA,Chile,CL,Aysén Region,0-1-2,0-1,1,3,3
+862,0.1.2.8.9.11.16.19.29.31.39.97.166.203.229.365.428.Valparaíso Region (CL),LatinAmerica,SA,Chile,CL,Valparaíso Region,0-1-2,0-1,1,3,3
+863,0.1.2.8.9.11.16.19.29.31.39.97.166.203.373.398.Arica y Parinacota Region (CL),LatinAmerica,SA,Chile,CL,Arica y Parinacota Region,0-1-2,0-1,1,3,3
+864,0.1.2.8.9.11.16.19.29.31.39.97.Los Ríos Region (CL),LatinAmerica,SA,Chile,CL,Los Ríos Region,0-1-2,0-1,1,3,3
+865,0.1.2.10.82.111.138.144.181.261.364.Tocantins (BR),LatinAmerica,SA,Brazil,BR,Tocantins,0-1-2,0-1,1,3,2
+866,0.1.2.10.82.251.300.349.Pernambuco (BR),LatinAmerica,SA,Brazil,BR,Pernambuco,0-1-2,0-1,1,3,2
+867,0.1.2.10.82.111.138.144.181.261.364.Goiás (BR),LatinAmerica,SA,Brazil,BR,Goiás,0-1-2,0-1,1,3,2
+868,0.1.2.10.82.251.266.382.Sergipe (BR),LatinAmerica,SA,Brazil,BR,Sergipe,0-1-2,0-1,1,3,2
+869,0.1.2.10.82.111.138.144.196.299.São Paulo (BR),LatinAmerica,SA,Brazil,BR,São Paulo,0-1-2,0-1,1,3,2
+859,0.1.2.8.9.11.16.19.29.31.39.97.166.203.229.289.386.439.442.Araucanía Region (CL),LatinAmerica,SA,Chile,CL,Araucanía Region,0-1-2,0-1,1,3,3
+870,0.1.2.10.82.111.138.293.347.Santa Catarina (BR),LatinAmerica,SA,Brazil,BR,Santa Catarina,0-1-2,0-1,1,3,2
+846,0.1.2.8.9.11.16.19.25.46.70.85.106.164.190.195.239.Caqueta (CO),LatinAmerica,SA,Colombia,CO,Caqueta,0-1-2,0-1,1,3,4
+844,0.1.2.8.9.11.16.19.25.46.70.85.101.148.220.335.367.421.Cesar (CO),LatinAmerica,SA,Colombia,CO,Cesar,0-1-2,0-1,1,3,4
+821,0.1.2.8.9.11.16.19.25.46.70.85.106.242.290.Distrito Especial (CO),LatinAmerica,SA,Colombia,CO,Distrito Especial,0-1-2,0-1,1,3,4
+822,0.1.2.8.9.11.16.19.25.46.70.85.106.164.257.342.377.441.Cundinamarca (CO),LatinAmerica,SA,Colombia,CO,Cundinamarca,0-1-2,0-1,1,3,4
+823,0.1.2.8.9.11.16.19.25.46.70.85.106.164.190.195.241.Casanare (CO),LatinAmerica,SA,Colombia,CO,Casanare,0-1-2,0-1,1,3,4
+824,0.1.2.8.9.11.16.19.25.46.70.85.106.164.190.Vichada (CO),LatinAmerica,SA,Colombia,CO,Vichada,0-1-2,0-1,1,3,4
+826,0.1.2.8.9.11.16.19.25.46.70.85.106.242.290.324.Valle del Cauca (CO),LatinAmerica,SA,Colombia,CO,Valle del Cauca,0-1-2,0-1,1,3,4
+827,0.1.2.8.9.11.16.19.25.46.70.85.106.164.257.342.401.432.Tolima (CO),LatinAmerica,SA,Colombia,CO,Tolima,0-1-2,0-1,1,3,4
+828,0.1.2.8.9.11.16.19.25.46.70.85.101.148.220.335.436.Sucre (CO),LatinAmerica,SA,Colombia,CO,Sucre,0-1-2,0-1,1,3,4
+829,0.1.2.8.9.11.16.19.25.46.70.85.106.164.257.380.Santander (CO),LatinAmerica,SA,Colombia,CO,Santander,0-1-2,0-1,1,3,4
+830,0.1.2.8.9.11.16.19.25.46.70.85.101.San Andres y Providencia (CO),LatinAmerica,SA,Colombia,CO,San Andres y Providencia,0-1-2,0-1,1,3,4
+831,0.1.2.8.9.11.16.19.25.46.70.85.106.242.363.416.Risaralda (CO),LatinAmerica,SA,Colombia,CO,Risaralda,0-1-2,0-1,1,3,4
+845,0.1.2.8.9.11.16.19.25.46.70.85.106.164.257.342.401.Cauca (CO),LatinAmerica,SA,Colombia,CO,Cauca,0-1-2,0-1,1,3,4
+832,0.1.2.8.9.11.16.19.25.46.70.85.106.242.363.416.Quindio (CO),LatinAmerica,SA,Colombia,CO,Quindio,0-1-2,0-1,1,3,4
+834,0.1.2.8.9.11.16.19.25.46.70.85.106.164.257.380.Norte de Santander (CO),LatinAmerica,SA,Colombia,CO,Norte de Santander,0-1-2,0-1,1,3,4
+835,0.1.2.8.9.11.16.19.25.46.70.85.106.164.190.195.239.343.Narino (CO),LatinAmerica,SA,Colombia,CO,Narino,0-1-2,0-1,1,3,4
+836,0.1.2.8.9.11.16.19.25.46.70.85.106.164.257.342.377.Meta (CO),LatinAmerica,SA,Colombia,CO,Meta,0-1-2,0-1,1,3,4
+837,0.1.2.8.9.11.16.19.25.46.70.85.101.148.220.335.367.Magdalena (CO),LatinAmerica,SA,Colombia,CO,Magdalena,0-1-2,0-1,1,3,4
+838,0.1.2.8.9.11.16.19.25.46.70.85.101.148.220.335.367.421.La Guajira (CO),LatinAmerica,SA,Colombia,CO,La Guajira,0-1-2,0-1,1,3,4
+839,0.1.2.8.9.11.16.19.25.46.70.85.106.164.257.342.401.432.Huila (CO),LatinAmerica,SA,Colombia,CO,Huila,0-1-2,0-1,1,3,4
+840,0.1.2.8.9.11.16.19.25.46.53.Guainia (CO),LatinAmerica,SA,Colombia,CO,Guainia,0-1-2,0-1,1,3,4
+841,0.1.2.8.9.11.16.19.25.46.70.Guaviare (CO),LatinAmerica,SA,Colombia,CO,Guaviare,0-1-2,0-1,1,3,4
+842,0.1.2.8.9.11.16.19.25.46.70.85.101.148.220.335.436.Cordoba (CO),LatinAmerica,SA,Colombia,CO,Cordoba,0-1-2,0-1,1,3,4
+843,0.1.2.8.9.11.16.19.25.46.70.85.101.148.Choco (CO),LatinAmerica,SA,Colombia,CO,Choco,0-1-2,0-1,1,3,4
+833,0.1.2.8.9.11.16.19.25.46.70.85.106.164.190.195.239.343.Putumayo (CO),LatinAmerica,SA,Colombia,CO,Putumayo,0-1-2,0-1,1,3,4
+871,0.1.2.10.82.111.260.327.Roraima (BR),LatinAmerica,SA,Brazil,BR,Roraima,0-1-2,0-1,1,3,2
+872,0.1.2.10.82.111.138.144.181.331.407.Rondônia (BR),LatinAmerica,SA,Brazil,BR,Rondônia,0-1-2,0-1,1,3,2
+873,0.1.2.10.82.111.138.293.Rio Grande do Sul (BR),LatinAmerica,SA,Brazil,BR,Rio Grande do Sul,0-1-2,0-1,1,3,2
+901,0.1.2.8.9.11.16.19.29.37.99.185.200.213.307.337.446.Chaco (AR),LatinAmerica,SA,Argentina,AR,Chaco,0-1-2,0-1,1,3,0
+902,0.1.2.8.9.11.16.19.29.37.99.185.200.213.268.355.371.Catamarca Province (AR),LatinAmerica,SA,Argentina,AR,Catamarca Province,0-1-2,0-1,1,3,0
+903,0.1.2.8.9.11.16.19.29.37.99.132.170.210.269.320.375.402.Buenos Aires Province (AR),LatinAmerica,SA,Argentina,AR,Buenos Aires Province,0-1-2,0-1,1,3,0
+904,0.1.2.8.9.11.16.19.29.37.99.185.200.213.268.355.371.Tucuman (AR),LatinAmerica,SA,Argentina,AR,Tucuman,0-1-2,0-1,1,3,0
+905,0.1.2.8.9.11.16.19.29.37.99.132.158.Tierra del Fuego (AR),LatinAmerica,SA,Argentina,AR,Tierra del Fuego,0-1-2,0-1,1,3,0
+906,0.1.2.8.9.11.16.19.29.37.99.185.200.213.268.355.Santiago del Estero (AR),LatinAmerica,SA,Argentina,AR,Santiago del Estero,0-1-2,0-1,1,3,0
+907,0.1.2.8.9.11.16.19.29.37.99.132.170.210.269.320.375.Santa Fe (AR),LatinAmerica,SA,Argentina,AR,Santa Fe,0-1-2,0-1,1,3,0
+908,0.1.2.8.9.11.16.19.29.37.99.132.158.313.393.Santa Cruz (AR),LatinAmerica,SA,Argentina,AR,Santa Cruz,0-1-2,0-1,1,3,0
+909,0.1.2.8.9.11.16.19.29.37.99.132.170.210.272.San Luis Province (AR),LatinAmerica,SA,Argentina,AR,San Luis Province,0-1-2,0-1,1,3,0
+910,0.1.2.8.9.11.16.19.29.37.99.185.San Juan Province (AR),LatinAmerica,SA,Argentina,AR,San Juan Province,0-1-2,0-1,1,3,0
+900,0.1.2.8.9.11.16.19.25.27.33.62.172.188.274.292.346.Chuquisaca Department (BO),LatinAmerica,SA,Bolivia,BO,Chuquisaca Department,0-1-2,0-1,1,3,1
+911,0.1.2.8.9.11.16.19.29.37.99.185.200.213.268.384.Salta Province (AR),LatinAmerica,SA,Argentina,AR,Salta Province,0-1-2,0-1,1,3,0
+913,0.1.2.8.9.11.16.19.29.37.99.132.158.313.459.Neuquen (AR),LatinAmerica,SA,Argentina,AR,Neuquen,0-1-2,0-1,1,3,0
+914,0.1.2.8.9.11.16.19.29.37.99.185.200.213.307.337.Misiones (AR),LatinAmerica,SA,Argentina,AR,Misiones,0-1-2,0-1,1,3,0
+915,0.1.2.8.9.11.16.19.29.37.99.132.170.210.272.Mendoza Province (AR),LatinAmerica,SA,Argentina,AR,Mendoza Province,0-1-2,0-1,1,3,0
+916,0.1.2.8.9.11.16.19.29.37.99.185.200.La Rioja Province (AR),LatinAmerica,SA,Argentina,AR,La Rioja Province,0-1-2,0-1,1,3,0
+917,0.1.2.8.9.11.16.19.29.37.99.132.170.210.269.La Pampa (AR),LatinAmerica,SA,Argentina,AR,La Pampa,0-1-2,0-1,1,3,0
+918,0.1.2.8.9.11.16.19.29.37.99.185.200.213.268.384.Jujuy (AR),LatinAmerica,SA,Argentina,AR,Jujuy,0-1-2,0-1,1,3,0
+919,0.1.2.8.9.11.16.19.29.37.99.185.200.213.307.Formosa Province (AR),LatinAmerica,SA,Argentina,AR,Formosa Province,0-1-2,0-1,1,3,0
+920,0.1.2.8.9.11.16.19.29.37.99.132.170.210.269.320.Entre Rios (AR),LatinAmerica,SA,Argentina,AR,Entre Rios,0-1-2,0-1,1,3,0
+921,0.1.2.8.9.11.16.19.29.37.99.132.170.Ciudad Autónoma de Buenos Aires (AR),LatinAmerica,SA,Argentina,AR,Ciudad Autónoma de Buenos Aires,0-1-2,0-1,1,3,0
+922,0.1.2.8.9.11.16.19.29.37.99.185.200.213.307.337.446.Corrientes Province (AR),LatinAmerica,SA,Argentina,AR,Corrientes Province,0-1-2,0-1,1,3,0
+912,0.1.2.8.9.11.16.19.29.37.99.132.158.313.459.Rio Negro (AR),LatinAmerica,SA,Argentina,AR,Rio Negro,0-1-2,0-1,1,3,0
+899,0.1.2.8.9.11.16.19.25.27.33.62.172.188.274.292.372.426.Cochabamba Department (BO),LatinAmerica,SA,Bolivia,BO,Cochabamba Department,0-1-2,0-1,1,3,1
+898,0.1.2.8.9.11.16.19.25.27.33.62.172.188.Beni Department (BO),LatinAmerica,SA,Bolivia,BO,Beni Department,0-1-2,0-1,1,3,1
+897,0.1.2.8.9.11.16.19.25.27.33.62.172.188.274.292.372.426.La Paz Department (BO),LatinAmerica,SA,Bolivia,BO,La Paz Department,0-1-2,0-1,1,3,1
+874,0.1.2.10.82.251.300.349.434.Rio Grande do Norte (BR),LatinAmerica,SA,Brazil,BR,Rio Grande do Norte,0-1-2,0-1,1,3,2
+875,0.1.2.10.82.111.138.144.196.299.Rio de Janeiro (BR),LatinAmerica,SA,Brazil,BR,Rio de Janeiro,0-1-2,0-1,1,3,2
+876,0.1.2.10.82.251.266.318.447.Piauí (BR),LatinAmerica,SA,Brazil,BR,Piauí,0-1-2,0-1,1,3,2
+877,0.1.2.10.82.111.138.293.347.Paraná (BR),LatinAmerica,SA,Brazil,BR,Paraná,0-1-2,0-1,1,3,2
+878,0.1.2.10.82.251.300.349.434.Paraíba (BR),LatinAmerica,SA,Brazil,BR,Paraíba,0-1-2,0-1,1,3,2
+879,0.1.2.10.82.111.260.327.356.411.Pará (BR),LatinAmerica,SA,Brazil,BR,Pará,0-1-2,0-1,1,3,2
+880,0.1.2.10.82.111.138.144.181.261.379.Minas Gerais (BR),LatinAmerica,SA,Brazil,BR,Minas Gerais,0-1-2,0-1,1,3,2
+881,0.1.2.10.82.111.138.144.181.331.407.Mato Grosso (BR),LatinAmerica,SA,Brazil,BR,Mato Grosso,0-1-2,0-1,1,3,2
+882,0.1.2.10.82.251.266.318.447.Maranhão (BR),LatinAmerica,SA,Brazil,BR,Maranhão,0-1-2,0-1,1,3,2
+883,0.1.2.10.82.111.138.144.181.331.Mato Grosso do Sul (BR),LatinAmerica,SA,Brazil,BR,Mato Grosso do Sul,0-1-2,0-1,1,3,2
+884,0.1.2.10.82.111.138.144.181.261.379.Espírito Santo (BR),LatinAmerica,SA,Brazil,BR,Espírito Santo,0-1-2,0-1,1,3,2
+885,0.1.2.10.82.111.138.144.196.Federal District (BR),LatinAmerica,SA,Brazil,BR,Federal District,0-1-2,0-1,1,3,2
+886,0.1.2.10.82.251.300.Ceará (BR),LatinAmerica,SA,Brazil,BR,Ceará,0-1-2,0-1,1,3,2
+887,0.1.2.10.82.251.266.318.Bahia (BR),LatinAmerica,SA,Brazil,BR,Bahia,0-1-2,0-1,1,3,2
+888,0.1.2.10.82.111.260.Amazonas (BR),LatinAmerica,SA,Brazil,BR,Amazonas,0-1-2,0-1,1,3,2
+889,0.1.2.10.82.111.260.327.356.411.Amapá (BR),LatinAmerica,SA,Brazil,BR,Amapá,0-1-2,0-1,1,3,2
+890,0.1.2.10.82.251.266.382.Alagoas (BR),LatinAmerica,SA,Brazil,BR,Alagoas,0-1-2,0-1,1,3,2
+891,0.1.2.10.82.111.260.327.356.Acre (BR),LatinAmerica,SA,Brazil,BR,Acre,0-1-2,0-1,1,3,2
+892,0.1.2.8.9.11.16.19.25.27.33.62.172.188.274.292.346.Tarija Department (BO),LatinAmerica,SA,Bolivia,BO,Tarija Department,0-1-2,0-1,1,3,1
+893,0.1.2.8.9.11.16.19.25.27.33.62.172.Santa Cruz Department (BO),LatinAmerica,SA,Bolivia,BO,Santa Cruz Department,0-1-2,0-1,1,3,1
+894,0.1.2.8.9.11.16.19.25.27.33.62.172.188.274.Potosí Department (BO),LatinAmerica,SA,Bolivia,BO,Potosí Department,0-1-2,0-1,1,3,1
+895,0.1.2.8.9.11.16.19.25.27.33.62.Pando Department (BO),LatinAmerica,SA,Bolivia,BO,Pando Department,0-1-2,0-1,1,3,1
+896,0.1.2.8.9.11.16.19.25.27.33.62.172.188.274.292.372.Oruro Department (BO),LatinAmerica,SA,Bolivia,BO,Oruro Department,0-1-2,0-1,1,3,1
+820,0.1.2.8.9.11.16.19.25.46.70.85.101.148.220.326.Bolivar (CO),LatinAmerica,SA,Colombia,CO,Bolivar,0-1-2,0-1,1,3,4
+819,0.1.2.8.9.11.16.19.25.46.70.85.106.164.257.342.377.441.Boyaca (CO),LatinAmerica,SA,Colombia,CO,Boyaca,0-1-2,0-1,1,3,4
+818,0.1.2.8.9.11.16.19.25.46.70.85.106.242.363.Caldas (CO),LatinAmerica,SA,Colombia,CO,Caldas,0-1-2,0-1,1,3,4
+817,0.1.2.8.9.11.16.19.29.31.39.184.437.Alajuela Province (CR),LatinAmerica,NA,Costa Rica,CR,Alajuela Province,0-1-2,0-1,1,3,5
+741,0.1.2.8.9.11.14.23.36.100.141.179.316.Quetzaltenango Department (GT),LatinAmerica,NA,Guatemala,GT,Quetzaltenango Department,0-1-2,0-1,1,3,9
+742,0.1.2.8.9.11.14.23.36.100.141.179.197.233.263.332.390.Petén Department (GT),LatinAmerica,NA,Guatemala,GT,Petén Department,0-1-2,0-1,1,3,9
+743,0.1.2.8.9.11.14.23.36.100.141.179.197.233.263.332.385.Jutiapa Department (GT),LatinAmerica,NA,Guatemala,GT,Jutiapa Department,0-1-2,0-1,1,3,9
+744,0.1.2.8.9.11.14.23.36.100.141.179.197.230.Jalapa Department (GT),LatinAmerica,NA,Guatemala,GT,Jalapa Department,0-1-2,0-1,1,3,9
+745,0.1.2.8.9.11.14.23.36.100.141.179.197.233.263.332.390.Izabal Department (GT),LatinAmerica,NA,Guatemala,GT,Izabal Department,0-1-2,0-1,1,3,9
+746,0.1.2.8.9.11.14.23.36.100.157.225.404.Huehuetenango Department (GT),LatinAmerica,NA,Guatemala,GT,Huehuetenango Department,0-1-2,0-1,1,3,9
+747,0.1.2.8.9.11.14.23.36.100.141.179.316.389.Guatemala Department (GT),LatinAmerica,NA,Guatemala,GT,Guatemala Department,0-1-2,0-1,1,3,9
+748,0.1.2.8.9.11.14.23.36.100.141.179.197.233.263.414.Escuintla Department (GT),LatinAmerica,NA,Guatemala,GT,Escuintla Department,0-1-2,0-1,1,3,9
+749,0.1.2.8.9.11.14.23.36.100.141.201.El Progreso Department (GT),LatinAmerica,NA,Guatemala,GT,El Progreso Department,0-1-2,0-1,1,3,9
+502,0.1.2.8.9.11.16.19.29.37.75.119.130.177.211.Colonia Department (UY),LatinAmerica,SA,Uruguay,UY,Colonia Department,0-1-2,0-1,1,3,18
+740,0.1.2.8.9.11.14.23.36.100.157.Quiché Department (GT),LatinAmerica,NA,Guatemala,GT,Quiché Department,0-1-2,0-1,1,3,9
+751,0.1.2.8.9.11.14.23.36.100.157.225.280.310.Chimaltenango Department (GT),LatinAmerica,NA,Guatemala,GT,Chimaltenango Department,0-1-2,0-1,1,3,9
+753,0.1.2.8.9.11.14.23.36.100.141.179.197.233.262.Alta Verapaz Department (GT),LatinAmerica,NA,Guatemala,GT,Alta Verapaz Department,0-1-2,0-1,1,3,9
+754,0.1.2.8.9.11.16.19.25.27.33.78.110.176.218.236.362.Orellana Province (EC),LatinAmerica,SA,Ecuador,EC,Orellana Province,0-1-2,0-1,1,3,7
+755,0.1.2.8.9.11.16.19.25.27.33.78.110.176.202.234.Napo Province (EC),LatinAmerica,SA,Ecuador,EC,Napo Province,0-1-2,0-1,1,3,7
+756,0.1.2.8.9.11.16.19.25.27.33.78.110.176.218.236.362.Sucumbíos Province (EC),LatinAmerica,SA,Ecuador,EC,Sucumbíos Province,0-1-2,0-1,1,3,7
+757,0.1.2.8.9.11.16.19.25.27.33.78.110.176.202.245.Zamora-Chinchipe Province (EC),LatinAmerica,SA,Ecuador,EC,Zamora-Chinchipe Province,0-1-2,0-1,1,3,7
+758,0.1.2.8.9.11.16.19.25.27.33.78.110.134.199.246.340.358.405.Tungurahua Province (EC),LatinAmerica,SA,Ecuador,EC,Tungurahua Province,0-1-2,0-1,1,3,7
+759,0.1.2.8.9.11.16.19.25.27.33.78.110.134.199.246.Pichincha Province (EC),LatinAmerica,SA,Ecuador,EC,Pichincha Province,0-1-2,0-1,1,3,7
+760,0.1.2.8.9.11.16.19.25.27.33.78.110.176.202.234.Pastaza Province (EC),LatinAmerica,SA,Ecuador,EC,Pastaza Province,0-1-2,0-1,1,3,7
+761,0.1.2.8.9.11.16.19.25.27.33.78.110.176.202.245.Morona-Santiago Province (EC),LatinAmerica,SA,Ecuador,EC,Morona-Santiago Province,0-1-2,0-1,1,3,7
+762,0.1.2.8.9.11.16.19.25.27.33.78.110.134.252.271.369.400.Manabí Province (EC),LatinAmerica,SA,Ecuador,EC,Manabí Province,0-1-2,0-1,1,3,7
+752,0.1.2.8.9.11.14.23.36.100.141.179.197.233.262.Baja Verapaz Department (GT),LatinAmerica,NA,Guatemala,GT,Baja Verapaz Department,0-1-2,0-1,1,3,9
+739,0.1.2.8.9.11.14.23.36.100.141.179.197.233.263.414.444.Retalhuleu Department (GT),LatinAmerica,NA,Guatemala,GT,Retalhuleu Department,0-1-2,0-1,1,3,9
+738,0.1.2.8.9.11.14.23.36.100.141.179.316.389.Sacatepéquez Department (GT),LatinAmerica,NA,Guatemala,GT,Sacatepéquez Department,0-1-2,0-1,1,3,9
+737,0.1.2.8.9.11.14.23.36.100.157.225.404.San Marcos Department (GT),LatinAmerica,NA,Guatemala,GT,San Marcos Department,0-1-2,0-1,1,3,9
+713,0.1.2.8.28.44.57.Nord-Ouest Department (HT),,NA,Haiti,HT,Nord-Ouest Department,0-1-2,0-1,1,3,10
+714,0.1.2.8.9.11.14.23.36.42.122.137.178.232.243.277.314.425.Yoro Department (HN),LatinAmerica,NA,Honduras,HN,Yoro Department,0-1-2,0-1,1,3,11
+715,0.1.2.8.9.11.14.23.36.42.122.150.173.Valle Department (HN),LatinAmerica,NA,Honduras,HN,Valle Department,0-1-2,0-1,1,3,11
+716,0.1.2.8.9.11.14.23.36.42.122.137.178.232.243.277.339.Santa Bárbara Department (HN),LatinAmerica,NA,Honduras,HN,Santa Bárbara Department,0-1-2,0-1,1,3,11
+717,0.1.2.8.9.11.14.23.36.42.122.137.178.232.243.279.311.Olancho Department (HN),LatinAmerica,NA,Honduras,HN,Olancho Department,0-1-2,0-1,1,3,11
+718,0.1.2.8.9.11.14.23.36.42.122.150.183.Ocotepeque Department (HN),LatinAmerica,NA,Honduras,HN,Ocotepeque Department,0-1-2,0-1,1,3,11
+719,0.1.2.8.9.11.14.23.36.42.122.150.183.217.Lempira Department (HN),LatinAmerica,NA,Honduras,HN,Lempira Department,0-1-2,0-1,1,3,11
+720,0.1.2.8.9.11.14.23.36.42.122.150.173.La Paz Department (HN),LatinAmerica,NA,Honduras,HN,La Paz Department,0-1-2,0-1,1,3,11
+721,0.1.2.8.9.11.14.23.36.42.122.137.Bay Islands Department (HN),LatinAmerica,NA,Honduras,HN,Bay Islands Department,0-1-2,0-1,1,3,11
+722,0.1.2.8.9.11.14.23.36.42.122.150.183.217.Intibucá Department (HN),LatinAmerica,NA,Honduras,HN,Intibucá Department,0-1-2,0-1,1,3,11
+724,0.1.2.8.9.11.14.23.36.42.122.137.178.353.Francisco Morazán Department (HN),LatinAmerica,NA,Honduras,HN,Francisco Morazán Department,0-1-2,0-1,1,3,11
+725,0.1.2.8.9.11.14.23.36.42.122.137.178.232.243.279.311.El Paraíso Department (HN),LatinAmerica,NA,Honduras,HN,El Paraíso Department,0-1-2,0-1,1,3,11
+726,0.1.2.8.9.11.14.23.36.42.122.137.178.353.Cortés Department (HN),LatinAmerica,NA,Honduras,HN,Cortés Department,0-1-2,0-1,1,3,11
+727,0.1.2.8.9.11.14.23.36.42.122.137.178.232.243.277.339.Copán Department (HN),LatinAmerica,NA,Honduras,HN,Copán Department,0-1-2,0-1,1,3,11
+728,0.1.2.8.9.11.14.23.36.42.122.137.178.232.243.277.314.Comayagua Department (HN),LatinAmerica,NA,Honduras,HN,Comayagua Department,0-1-2,0-1,1,3,11
+729,0.1.2.8.9.11.14.23.36.42.122.137.178.232.Colón Department (HN),LatinAmerica,NA,Honduras,HN,Colón Department,0-1-2,0-1,1,3,11
+730,0.1.2.8.9.11.14.23.36.42.122.137.178.232.243.279.Choluteca Department (HN),LatinAmerica,NA,Honduras,HN,Choluteca Department,0-1-2,0-1,1,3,11
+731,0.1.2.8.9.11.14.23.36.42.122.137.178.232.243.277.314.425.Atlántida Department (HN),LatinAmerica,NA,Honduras,HN,Atlántida Department,0-1-2,0-1,1,3,11
+732,0.1.2.8.9.11.14.23.36.100.141.201.Zacapa Department (GT),LatinAmerica,NA,Guatemala,GT,Zacapa Department,0-1-2,0-1,1,3,9
+733,0.1.2.8.9.11.14.23.36.100.157.225.280.Totonicapán Department (GT),LatinAmerica,NA,Guatemala,GT,Totonicapán Department,0-1-2,0-1,1,3,9
+734,0.1.2.8.9.11.14.23.36.100.141.179.197.233.263.414.444.Suchitepéquez Department (GT),LatinAmerica,NA,Guatemala,GT,Suchitepéquez Department,0-1-2,0-1,1,3,9
+735,0.1.2.8.9.11.14.23.36.100.157.225.280.310.Sololá Department (GT),LatinAmerica,NA,Guatemala,GT,Sololá Department,0-1-2,0-1,1,3,9
+736,0.1.2.8.9.11.14.23.36.100.141.179.197.230.Santa Rosa Department (GT),LatinAmerica,NA,Guatemala,GT,Santa Rosa Department,0-1-2,0-1,1,3,9
+763,0.1.2.8.9.11.16.19.25.27.33.78.110.134.252.271.309.419.Los Ríos Province (EC),LatinAmerica,SA,Ecuador,EC,Los Ríos Province,0-1-2,0-1,1,3,7
+711,0.1.2.8.28.Centre Department (HT),,NA,Haiti,HT,Centre Department,0-1-2,0-1,1,3,10
+764,0.1.2.8.9.11.16.19.25.27.33.78.110.134.199.278.302.Loja Province (EC),LatinAmerica,SA,Ecuador,EC,Loja Province,0-1-2,0-1,1,3,7
+766,0.1.2.8.9.11.16.19.25.27.33.78.110.134.252.271.369.Guayas Province (EC),LatinAmerica,SA,Ecuador,EC,Guayas Province,0-1-2,0-1,1,3,7
+794,0.1.2.8.9.11.16.21.30.41.Pedernales Province (DO),LatinAmerica,NA,Dominican Republic,DO,Pedernales Province,0-1-2,0-1,1,3,6
+795,0.1.2.8.9.11.16.21.30.71.84.104.118.131.151.163.Monte Cristi Province (DO),LatinAmerica,NA,Dominican Republic,DO,Monte Cristi Province,0-1-2,0-1,1,3,6
+796,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.222.317.María Trinidad Sánchez Province (DO),LatinAmerica,NA,Dominican Republic,DO,María Trinidad Sánchez Province,0-1-2,0-1,1,3,6
+797,0.1.2.8.9.11.16.21.30.71.84.104.193.275.348.406.La Romana Province (DO),LatinAmerica,NA,Dominican Republic,DO,La Romana Province,0-1-2,0-1,1,3,6
+798,0.1.2.8.9.11.16.21.30.41.Elías Piña Province (DO),LatinAmerica,NA,Dominican Republic,DO,Elías Piña Province,0-1-2,0-1,1,3,6
+799,0.1.2.8.9.11.16.21.30.71.84.104.193.275.348.La Altagracia Province (DO),LatinAmerica,NA,Dominican Republic,DO,La Altagracia Province,0-1-2,0-1,1,3,6
+800,0.1.2.8.9.11.16.21.30.71.Independencia Province (DO),LatinAmerica,NA,Dominican Republic,DO,Independencia Province,0-1-2,0-1,1,3,6
+801,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.224.323.368.399.Espaillat Province (DO),LatinAmerica,NA,Dominican Republic,DO,Espaillat Province,0-1-2,0-1,1,3,6
+802,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.224.323.368.399.427.449.Duarte Province (DO),LatinAmerica,NA,Dominican Republic,DO,Duarte Province,0-1-2,0-1,1,3,6
+803,0.1.2.8.9.11.16.21.30.71.84.104.193.319.Distrito Nacional (DO),LatinAmerica,NA,Dominican Republic,DO,Distrito Nacional,0-1-2,0-1,1,3,6
+793,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.222.248.284.294.Peravia Province (DO),LatinAmerica,NA,Dominican Republic,DO,Peravia Province,0-1-2,0-1,1,3,6
+804,0.1.2.8.9.11.16.21.30.71.84.108.Dajabón Province (DO),LatinAmerica,NA,Dominican Republic,DO,Dajabón Province,0-1-2,0-1,1,3,6
+806,0.1.2.8.9.11.16.21.30.71.84.104.118.131.151.163.Baoruco Province (DO),LatinAmerica,NA,Dominican Republic,DO,Baoruco Province,0-1-2,0-1,1,3,6
+807,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.222.248.284.329.Azua Province (DO),LatinAmerica,NA,Dominican Republic,DO,Azua Province,0-1-2,0-1,1,3,6
+808,0.1.2.8.9.11.16.21.30.71.84.104.118.San José de Ocoa Province (DO),LatinAmerica,NA,Dominican Republic,DO,San José de Ocoa Province,0-1-2,0-1,1,3,6
+809,0.1.2.8.9.11.16.21.30.71.84.104.193.275.Santo Domingo Province (DO),LatinAmerica,NA,Dominican Republic,DO,Santo Domingo Province,0-1-2,0-1,1,3,6
+811,0.1.2.8.9.11.16.19.29.31.39.184.437.451.461.San José Province (CR),LatinAmerica,NA,Costa Rica,CR,San José Province,0-1-2,0-1,1,3,5
+812,0.1.2.8.9.11.16.19.29.31.39.184.338.409.Puntarenas Province (CR),LatinAmerica,NA,Costa Rica,CR,Puntarenas Province,0-1-2,0-1,1,3,5
+813,0.1.2.8.9.11.16.19.29.31.39.184.338.409.Limón Province (CR),LatinAmerica,NA,Costa Rica,CR,Limón Province,0-1-2,0-1,1,3,5
+814,0.1.2.8.9.11.16.19.29.31.39.184.437.451.461.Heredia Province (CR),LatinAmerica,NA,Costa Rica,CR,Heredia Province,0-1-2,0-1,1,3,5
+815,0.1.2.8.9.11.16.19.29.31.39.184.338.Guanacaste Province (CR),LatinAmerica,NA,Costa Rica,CR,Guanacaste Province,0-1-2,0-1,1,3,5
+816,0.1.2.8.9.11.16.19.29.31.39.184.437.451.Cartago Province (CR),LatinAmerica,NA,Costa Rica,CR,Cartago Province,0-1-2,0-1,1,3,5
+805,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.222.248.284.329.Barahona Province (DO),LatinAmerica,NA,Dominican Republic,DO,Barahona Province,0-1-2,0-1,1,3,6
+792,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.224.323.368.399.427.Puerto Plata province (DO),LatinAmerica,NA,Dominican Republic,DO,Puerto Plata province,0-1-2,0-1,1,3,6
+791,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.224.Salcedo (DO),LatinAmerica,NA,Dominican Republic,DO,Salcedo,0-1-2,0-1,1,3,6
+790,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.222.317.Samaná Province (DO),LatinAmerica,NA,Dominican Republic,DO,Samaná Province,0-1-2,0-1,1,3,6
+767,0.1.2.8.9.11.16.19.25.27.33.78.110.134.252.271.309.419.Esmeraldas Province (EC),LatinAmerica,SA,Ecuador,EC,Esmeraldas Province,0-1-2,0-1,1,3,7
+768,0.1.2.8.9.11.16.19.25.27.33.78.110.134.252.271.369.400.El Oro Province (EC),LatinAmerica,SA,Ecuador,EC,El Oro Province,0-1-2,0-1,1,3,7
+769,0.1.2.8.9.11.16.19.25.27.33.78.110.134.199.246.340.358.Cotopaxi Province (EC),LatinAmerica,SA,Ecuador,EC,Cotopaxi Province,0-1-2,0-1,1,3,7
+770,0.1.2.8.9.11.16.19.25.27.33.78.110.134.199.246.340.358.405.Chimborazo Province (EC),LatinAmerica,SA,Ecuador,EC,Chimborazo Province,0-1-2,0-1,1,3,7
+771,0.1.2.8.9.11.16.19.25.27.33.78.110.176.218.Carchi Province (EC),LatinAmerica,SA,Ecuador,EC,Carchi Province,0-1-2,0-1,1,3,7
+772,0.1.2.8.9.11.16.19.25.27.33.78.110.134.199.278.302.Cañar Province (EC),LatinAmerica,SA,Ecuador,EC,Cañar Province,0-1-2,0-1,1,3,7
+773,0.1.2.8.9.11.16.19.25.27.33.78.110.176.218.236.Bolívar Province (EC),LatinAmerica,SA,Ecuador,EC,Bolívar Province,0-1-2,0-1,1,3,7
+774,0.1.2.8.9.11.16.19.25.27.33.78.110.134.199.278.Azuay Province (EC),LatinAmerica,SA,Ecuador,EC,Azuay Province,0-1-2,0-1,1,3,7
+775,0.1.2.8.9.11.16.19.25.27.33.78.Galápagos Province (EC),LatinAmerica,SA,Ecuador,EC,Galápagos Province,0-1-2,0-1,1,3,7
+776,0.1.2.8.9.11.16.19.25.27.33.78.110.134.252.271.309.Santo Domingo de los Tsáchilas Province (EC),LatinAmerica,SA,Ecuador,EC,Santo Domingo de los Tsáchilas Province,0-1-2,0-1,1,3,7
+777,0.1.2.8.9.11.16.19.25.27.33.78.110.134.252.Santa Elena Province (EC),LatinAmerica,SA,Ecuador,EC,Santa Elena Province,0-1-2,0-1,1,3,7
+778,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.222.248.305.San Cristóbal Province (DO),LatinAmerica,NA,Dominican Republic,DO,San Cristóbal Province,0-1-2,0-1,1,3,6
+779,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.222.248.305.Monte Plata Province (DO),LatinAmerica,NA,Dominican Republic,DO,Monte Plata Province,0-1-2,0-1,1,3,6
+780,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.224.323.368.Monseñor Nouel Province (DO),LatinAmerica,NA,Dominican Republic,DO,Monseñor Nouel Province,0-1-2,0-1,1,3,6
+781,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.224.323.368.399.427.449.La Vega Province (DO),LatinAmerica,NA,Dominican Republic,DO,La Vega Province,0-1-2,0-1,1,3,6
+782,0.1.2.8.9.11.16.21.30.71.84.104.118.131.151.165.Hato Mayor Province (DO),LatinAmerica,NA,Dominican Republic,DO,Hato Mayor Province,0-1-2,0-1,1,3,6
+783,0.1.2.8.9.11.16.21.30.71.84.104.118.131.151.165.El Seibo Province (DO),LatinAmerica,NA,Dominican Republic,DO,El Seibo Province,0-1-2,0-1,1,3,6
+784,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.224.323.350.Valverde Province (DO),LatinAmerica,NA,Dominican Republic,DO,Valverde Province,0-1-2,0-1,1,3,6
+785,0.1.2.8.9.11.16.21.30.71.84.108.Santiago Rodríguez Province (DO),LatinAmerica,NA,Dominican Republic,DO,Santiago Rodríguez Province,0-1-2,0-1,1,3,6
+786,0.1.2.8.9.11.16.21.30.71.84.104.193.319.Santiago Province (DO),LatinAmerica,NA,Dominican Republic,DO,Santiago Province,0-1-2,0-1,1,3,6
+787,0.1.2.8.9.11.16.21.30.71.84.104.193.275.348.406.San Pedro de Macorís Province (DO),LatinAmerica,NA,Dominican Republic,DO,San Pedro de Macorís Province,0-1-2,0-1,1,3,6
+788,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.222.248.284.294.San Juan Province (DO),LatinAmerica,NA,Dominican Republic,DO,San Juan Province,0-1-2,0-1,1,3,6
+789,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.224.323.350.Sánchez Ramírez Province (DO),LatinAmerica,NA,Dominican Republic,DO,Sánchez Ramírez Province,0-1-2,0-1,1,3,6
+765,0.1.2.8.9.11.16.19.25.27.33.78.110.134.199.246.340.Imbabura Province (EC),LatinAmerica,SA,Ecuador,EC,Imbabura Province,0-1-2,0-1,1,3,7
+501,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.192.Durazno Department (UY),LatinAmerica,SA,Uruguay,UY,Durazno Department,0-1-2,0-1,1,3,18
+462,0.1.2.8.9.11.16.21.77.127.212.283.344.Vargas (VE),LatinAmerica,SA,Venezuela,VE,Vargas,0-1-2,0-1,1,3,19
+499,0.1.2.8.9.11.16.19.29.37.75.119.130.147.Florida Department (UY),LatinAmerica,SA,Uruguay,UY,Florida Department,0-1-2,0-1,1,3,18
+213,0.1.2.8.9.11.16.19.29.37.99.185.200.213,,,,,,0-1-2,0-1,1,3,-1
+214,0.1.2.8.9.11.16.19.29.37.75.119.214,,,,,,0-1-2,0-1,1,3,-1
+215,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.192.198.215,,,,,,0-1-2,0-1,1,3,-1
+216,0.1.2.8.9.11.14.109.149.216,,,,,,0-1-2,0-1,1,3,-1
+217,0.1.2.8.9.11.14.23.36.42.122.150.183.217,,,,,,0-1-2,0-1,1,3,-1
+218,0.1.2.8.9.11.16.19.25.27.33.78.110.176.218,,,,,,0-1-2,0-1,1,3,-1
+219,0.1.2.8.9.11.14.23.120.153.187.219,,,,,,0-1-2,0-1,1,3,-1
+220,0.1.2.8.9.11.16.19.25.46.70.85.101.148.220,,,,,,0-1-2,0-1,1,3,-1
+221,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221,,,,,,0-1-2,0-1,1,3,-1
+222,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.222,,,,,,0-1-2,0-1,1,3,-1
+212,0.1.2.8.9.11.16.21.77.127.212,,,,,,0-1-2,0-1,1,3,-1
+223,0.1.2.8.9.11.14.23.120.153.168.223,,,,,,0-1-2,0-1,1,3,-1
+225,0.1.2.8.9.11.14.23.36.100.157.225,,,,,,0-1-2,0-1,1,3,-1
+226,0.1.2.8.9.11.14.23.120.143.226,,,,,,0-1-2,0-1,1,3,-1
+227,0.1.2.8.9.11.14.23.120.143.227,,,,,,0-1-2,0-1,1,3,-1
+228,0.1.2.8.9.11.14.23.36.42.43.74.95.136.205.228,,,,,,0-1-2,0-1,1,3,-1
+229,0.1.2.8.9.11.16.19.29.31.39.97.166.203.229,,,,,,0-1-2,0-1,1,3,-1
+230,0.1.2.8.9.11.14.23.36.100.141.179.197.230,,,,,,0-1-2,0-1,1,3,-1
+231,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.231,,,,,,0-1-2,0-1,1,3,-1
+232,0.1.2.8.9.11.14.23.36.42.122.137.178.232,,,,,,0-1-2,0-1,1,3,-1
+233,0.1.2.8.9.11.14.23.36.100.141.179.197.233,,,,,,0-1-2,0-1,1,3,-1
+234,0.1.2.8.9.11.16.19.25.27.33.78.110.176.202.234,,,,,,0-1-2,0-1,1,3,-1
+224,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.224,,,,,,0-1-2,0-1,1,3,-1
+235,0.1.2.8.9.11.16.19.29.31.91.94.145.175.235,,,,,,0-1-2,0-1,1,3,-1
+211,0.1.2.8.9.11.16.19.29.37.75.119.130.177.211,,,,,,0-1-2,0-1,1,3,-1
+209,0.1.2.8.9.11.14.23.36.42.43.74.95.136.180.209,,,,,,0-1-2,0-1,1,3,-1
+184,0.1.2.8.9.11.16.19.29.31.39.184,,,,,,0-1-2,0-1,1,3,-1
+185,0.1.2.8.9.11.16.19.29.37.99.185,,,,,,0-1-2,0-1,1,3,-1
+186,0.1.2.8.9.11.14.23.36.42.43.162.186,,,,,,0-1-2,0-1,1,3,-1
+187,0.1.2.8.9.11.14.23.120.153.187,,,,,,0-1-2,0-1,1,3,-1
+188,0.1.2.8.9.11.16.19.25.27.33.62.172.188,,,,,,0-1-2,0-1,1,3,-1
+189,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.174.189,,,,,,0-1-2,0-1,1,3,-1
+190,0.1.2.8.9.11.16.19.25.46.70.85.106.164.190,,,,,,0-1-2,0-1,1,3,-1
+192,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.192,,,,,,0-1-2,0-1,1,3,-1
+193,0.1.2.8.9.11.16.21.30.71.84.104.193,,,,,,0-1-2,0-1,1,3,-1
+194,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.174.194,,,,,,0-1-2,0-1,1,3,-1
+210,0.1.2.8.9.11.16.19.29.37.99.132.170.210,,,,,,0-1-2,0-1,1,3,-1
+195,0.1.2.8.9.11.16.19.25.46.70.85.106.164.190.195,,,,,,0-1-2,0-1,1,3,-1
+197,0.1.2.8.9.11.14.23.36.100.141.179.197,,,,,,0-1-2,0-1,1,3,-1
+198,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.192.198,,,,,,0-1-2,0-1,1,3,-1
+199,0.1.2.8.9.11.16.19.25.27.33.78.110.134.199,,,,,,0-1-2,0-1,1,3,-1
+200,0.1.2.8.9.11.16.19.29.37.99.185.200,,,,,,0-1-2,0-1,1,3,-1
+201,0.1.2.8.9.11.14.23.36.100.141.201,,,,,,0-1-2,0-1,1,3,-1
+202,0.1.2.8.9.11.16.19.25.27.33.78.110.176.202,,,,,,0-1-2,0-1,1,3,-1
+203,0.1.2.8.9.11.16.19.29.31.39.97.166.203,,,,,,0-1-2,0-1,1,3,-1
+204,0.1.2.8.9.11.16.19.29.31.91.94.145.204,,,,,,0-1-2,0-1,1,3,-1
+205,0.1.2.8.9.11.14.23.36.42.43.74.95.136.205,,,,,,0-1-2,0-1,1,3,-1
+207,0.1.2.8.9.11.16.19.25.27.35.88.107.124.207,,,,,,0-1-2,0-1,1,3,-1
+196,0.1.2.10.82.111.138.144.196,,,,,,0-1-2,0-1,1,3,-1
+183,0.1.2.8.9.11.14.23.36.42.122.150.183,,,,,,0-1-2,0-1,1,3,-1
+236,0.1.2.8.9.11.16.19.25.27.33.78.110.176.218.236,,,,,,0-1-2,0-1,1,3,-1
+238,0.1.2.8.9.11.14.23.36.42.43.74.95.136.180.209.238,,,,,,0-1-2,0-1,1,3,-1
+266,0.1.2.10.82.251.266,,,,,,0-1-2,0-1,1,3,-1
+267,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.192.198.267,,,,,,0-1-2,0-1,1,3,-1
+268,0.1.2.8.9.11.16.19.29.37.99.185.200.213.268,,,,,,0-1-2,0-1,1,3,-1
+269,0.1.2.8.9.11.16.19.29.37.99.132.170.210.269,,,,,,0-1-2,0-1,1,3,-1
+270,0.1.2.8.9.11.14.23.120.153.168.223.244.270,,,,,,0-1-2,0-1,1,3,-1
+271,0.1.2.8.9.11.16.19.25.27.33.78.110.134.252.271,,,,,,0-1-2,0-1,1,3,-1
+272,0.1.2.8.9.11.16.19.29.37.99.132.170.210.272,,,,,,0-1-2,0-1,1,3,-1
+273,0.1.2.8.9.11.14.109.250.255.273,,,,,,0-1-2,0-1,1,3,-1
+274,0.1.2.8.9.11.16.19.25.27.33.62.172.188.274,,,,,,0-1-2,0-1,1,3,-1
+275,0.1.2.8.9.11.16.21.30.71.84.104.193.275,,,,,,0-1-2,0-1,1,3,-1
+265,0.1.2.8.9.11.14.23.36.42.43.74.95.136.205.228.265,,,,,,0-1-2,0-1,1,3,-1
+276,0.1.2.8.9.11.14.23.120.153.187.237.276,,,,,,0-1-2,0-1,1,3,-1
+278,0.1.2.8.9.11.16.19.25.27.33.78.110.134.199.278,,,,,,0-1-2,0-1,1,3,-1
+279,0.1.2.8.9.11.14.23.36.42.122.137.178.232.243.279,,,,,,0-1-2,0-1,1,3,-1
+280,0.1.2.8.9.11.14.23.36.100.157.225.280,,,,,,0-1-2,0-1,1,3,-1
+281,0.1.2.8.9.11.14.23.36.42.43.74.95.136.180.209.238.281,,,,,,0-1-2,0-1,1,3,-1
+282,0.1.2.8.9.11.14.23.36.42.43.162.186.282,,,,,,0-1-2,0-1,1,3,-1
+283,0.1.2.8.9.11.16.21.77.127.212.283,,,,,,0-1-2,0-1,1,3,-1
+284,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.222.248.284,,,,,,0-1-2,0-1,1,3,-1
+285,0.1.2.8.9.11.14.109.149.216.264.285,,,,,,0-1-2,0-1,1,3,-1
+286,0.1.2.8.9.11.16.19.29.31.91.94.145.175.235.286,,,,,,0-1-2,0-1,1,3,-1
+500,0.1.2.8.9.11.16.19.29.37.75.Flores Department (UY),LatinAmerica,SA,Uruguay,UY,Flores Department,0-1-2,0-1,1,3,18
+277,0.1.2.8.9.11.14.23.36.42.122.137.178.232.243.277,,,,,,0-1-2,0-1,1,3,-1
+237,0.1.2.8.9.11.14.23.120.153.187.237,,,,,,0-1-2,0-1,1,3,-1
+264,0.1.2.8.9.11.14.109.149.216.264,,,,,,0-1-2,0-1,1,3,-1
+262,0.1.2.8.9.11.14.23.36.100.141.179.197.233.262,,,,,,0-1-2,0-1,1,3,-1
+239,0.1.2.8.9.11.16.19.25.46.70.85.106.164.190.195.239,,,,,,0-1-2,0-1,1,3,-1
+241,0.1.2.8.9.11.16.19.25.46.70.85.106.164.190.195.241,,,,,,0-1-2,0-1,1,3,-1
+242,0.1.2.8.9.11.16.19.25.46.70.85.106.242,,,,,,0-1-2,0-1,1,3,-1
+243,0.1.2.8.9.11.14.23.36.42.122.137.178.232.243,,,,,,0-1-2,0-1,1,3,-1
+244,0.1.2.8.9.11.14.23.120.153.168.223.244,,,,,,0-1-2,0-1,1,3,-1
+245,0.1.2.8.9.11.16.19.25.27.33.78.110.176.202.245,,,,,,0-1-2,0-1,1,3,-1
+246,0.1.2.8.9.11.16.19.25.27.33.78.110.134.199.246,,,,,,0-1-2,0-1,1,3,-1
+247,0.1.2.8.9.11.14.23.36.42.43.162.186.247,,,,,,0-1-2,0-1,1,3,-1
+248,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.222.248,,,,,,0-1-2,0-1,1,3,-1
+249,0.1.2.8.9.11.14.23.36.42.43.74.95.136.180.209.249,,,,,,0-1-2,0-1,1,3,-1
+263,0.1.2.8.9.11.14.23.36.100.141.179.197.233.263,,,,,,0-1-2,0-1,1,3,-1
+250,0.1.2.8.9.11.14.109.250,,,,,,0-1-2,0-1,1,3,-1
+252,0.1.2.8.9.11.16.19.25.27.33.78.110.134.252,,,,,,0-1-2,0-1,1,3,-1
+253,0.1.2.8.9.11.16.21.77.127.212.253,,,,,,0-1-2,0-1,1,3,-1
+254,0.1.2.8.9.11.16.19.29.31.39.97.166.254,,,,,,0-1-2,0-1,1,3,-1
+255,0.1.2.8.9.11.14.109.250.255,,,,,,0-1-2,0-1,1,3,-1
+256,0.1.2.8.9.11.16.19.25.27.35.88.107.124.207.256,,,,,,0-1-2,0-1,1,3,-1
+257,0.1.2.8.9.11.16.19.25.46.70.85.106.164.257,,,,,,0-1-2,0-1,1,3,-1
+258,0.1.2.8.9.11.14.23.120.153.168.258,,,,,,0-1-2,0-1,1,3,-1
+259,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.231.259,,,,,,0-1-2,0-1,1,3,-1
+260,0.1.2.10.82.111.260,,,,,,0-1-2,0-1,1,3,-1
+261,0.1.2.10.82.111.138.144.181.261,,,,,,0-1-2,0-1,1,3,-1
+251,0.1.2.10.82.251,,,,,,0-1-2,0-1,1,3,-1
+182,0.1.2.8.9.11.14.109.149.182,,,,,,0-1-2,0-1,1,3,-1
+181,0.1.2.10.82.111.138.144.181,,,,,,0-1-2,0-1,1,3,-1
+180,0.1.2.8.9.11.14.23.36.42.43.74.95.136.180,,,,,,0-1-2,0-1,1,3,-1
+53,0.1.2.8.9.11.16.19.25.46.53,,,,,,0-1-2,0-1,1,3,-1
+57,0.1.2.8.28.44.57,,,,,,0-1-2,0-1,1,3,-1
+58,0.1.2.8.28.44.57.58,,,,,,0-1-2,0-1,1,3,-1
+62,0.1.2.8.9.11.16.19.25.27.33.62,,,,,,0-1-2,0-1,1,3,-1
+65,0.1.2.8.28.44.57.58.65,,,,,,0-1-2,0-1,1,3,-1
+70,0.1.2.8.9.11.16.19.25.46.70,,,,,,0-1-2,0-1,1,3,-1
+71,0.1.2.8.9.11.16.21.30.71,,,,,,0-1-2,0-1,1,3,-1
+74,0.1.2.8.9.11.14.23.36.42.43.74,,,,,,0-1-2,0-1,1,3,-1
+75,0.1.2.8.9.11.16.19.29.37.75,,,,,,0-1-2,0-1,1,3,-1
+77,0.1.2.8.9.11.16.21.77,,,,,,0-1-2,0-1,1,3,-1
+46,0.1.2.8.9.11.16.19.25.46,,,,,,0-1-2,0-1,1,3,-1
+78,0.1.2.8.9.11.16.19.25.27.33.78,,,,,,0-1-2,0-1,1,3,-1
+84,0.1.2.8.9.11.16.21.30.71.84,,,,,,0-1-2,0-1,1,3,-1
+85,0.1.2.8.9.11.16.19.25.46.70.85,,,,,,0-1-2,0-1,1,3,-1
+88,0.1.2.8.9.11.16.19.25.27.35.88,,,,,,0-1-2,0-1,1,3,-1
+91,0.1.2.8.9.11.16.19.29.31.91,,,,,,0-1-2,0-1,1,3,-1
+94,0.1.2.8.9.11.16.19.29.31.91.94,,,,,,0-1-2,0-1,1,3,-1
+95,0.1.2.8.9.11.14.23.36.42.43.74.95,,,,,,0-1-2,0-1,1,3,-1
+97,0.1.2.8.9.11.16.19.29.31.39.97,,,,,,0-1-2,0-1,1,3,-1
+98,0.1.2.8.9.11.16.21.77.98,,,,,,0-1-2,0-1,1,3,-1
+99,0.1.2.8.9.11.16.19.29.37.99,,,,,,0-1-2,0-1,1,3,-1
+100,0.1.2.8.9.11.14.23.36.100,,,,,,0-1-2,0-1,1,3,-1
+82,0.1.2.10.82,,,,,,0-1-2,0-1,1,3,-1
+101,0.1.2.8.9.11.16.19.25.46.70.85.101,,,,,,0-1-2,0-1,1,3,-1
+44,0.1.2.8.28.44,,,,,,0-1-2,0-1,1,3,-1
+42,0.1.2.8.9.11.14.23.36.42,,,,,,0-1-2,0-1,1,3,-1
+2,0.1.2,,,,,,0-1-2,0-1,1,3,-1
+8,0.1.2.8,,,,,,0-1-2,0-1,1,3,-1
+9,0.1.2.8.9,,,,,,0-1-2,0-1,1,3,-1
+10,0.1.2.10,,,,,,0-1-2,0-1,1,3,-1
+11,0.1.2.8.9.11,,,,,,0-1-2,0-1,1,3,-1
+14,0.1.2.8.9.11.14,,,,,,0-1-2,0-1,1,3,-1
+16,0.1.2.8.9.11.16,,,,,,0-1-2,0-1,1,3,-1
+19,0.1.2.8.9.11.16.19,,,,,,0-1-2,0-1,1,3,-1
+21,0.1.2.8.9.11.16.21,,,,,,0-1-2,0-1,1,3,-1
+23,0.1.2.8.9.11.14.23,,,,,,0-1-2,0-1,1,3,-1
+43,0.1.2.8.9.11.14.23.36.42.43,,,,,,0-1-2,0-1,1,3,-1
+25,0.1.2.8.9.11.16.19.25,,,,,,0-1-2,0-1,1,3,-1
+28,0.1.2.8.28,,,,,,0-1-2,0-1,1,3,-1
+29,0.1.2.8.9.11.16.19.29,,,,,,0-1-2,0-1,1,3,-1
+30,0.1.2.8.9.11.16.21.30,,,,,,0-1-2,0-1,1,3,-1
+31,0.1.2.8.9.11.16.19.29.31,,,,,,0-1-2,0-1,1,3,-1
+33,0.1.2.8.9.11.16.19.25.27.33,,,,,,0-1-2,0-1,1,3,-1
+35,0.1.2.8.9.11.16.19.25.27.35,,,,,,0-1-2,0-1,1,3,-1
+36,0.1.2.8.9.11.14.23.36,,,,,,0-1-2,0-1,1,3,-1
+37,0.1.2.8.9.11.16.19.29.37,,,,,,0-1-2,0-1,1,3,-1
+39,0.1.2.8.9.11.16.19.29.31.39,,,,,,0-1-2,0-1,1,3,-1
+41,0.1.2.8.9.11.16.21.30.41,,,,,,0-1-2,0-1,1,3,-1
+27,0.1.2.8.9.11.16.19.25.27,,,,,,0-1-2,0-1,1,3,-1
+104,0.1.2.8.9.11.16.21.30.71.84.104,,,,,,0-1-2,0-1,1,3,-1
+106,0.1.2.8.9.11.16.19.25.46.70.85.106,,,,,,0-1-2,0-1,1,3,-1
+107,0.1.2.8.9.11.16.19.25.27.35.88.107,,,,,,0-1-2,0-1,1,3,-1
+153,0.1.2.8.9.11.14.23.120.153,,,,,,0-1-2,0-1,1,3,-1
+154,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154,,,,,,0-1-2,0-1,1,3,-1
+157,0.1.2.8.9.11.14.23.36.100.157,,,,,,0-1-2,0-1,1,3,-1
+158,0.1.2.8.9.11.16.19.29.37.99.132.158,,,,,,0-1-2,0-1,1,3,-1
+160,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160,,,,,,0-1-2,0-1,1,3,-1
+161,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161,,,,,,0-1-2,0-1,1,3,-1
+162,0.1.2.8.9.11.14.23.36.42.43.162,,,,,,0-1-2,0-1,1,3,-1
+163,0.1.2.8.9.11.16.21.30.71.84.104.118.131.151.163,,,,,,0-1-2,0-1,1,3,-1
+164,0.1.2.8.9.11.16.19.25.46.70.85.106.164,,,,,,0-1-2,0-1,1,3,-1
+165,0.1.2.8.9.11.16.21.30.71.84.104.118.131.151.165,,,,,,0-1-2,0-1,1,3,-1
+151,0.1.2.8.9.11.16.21.30.71.84.104.118.131.151,,,,,,0-1-2,0-1,1,3,-1
+166,0.1.2.8.9.11.16.19.29.31.39.97.166,,,,,,0-1-2,0-1,1,3,-1
+169,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169,,,,,,0-1-2,0-1,1,3,-1
+170,0.1.2.8.9.11.16.19.29.37.99.132.170,,,,,,0-1-2,0-1,1,3,-1
+172,0.1.2.8.9.11.16.19.25.27.33.62.172,,,,,,0-1-2,0-1,1,3,-1
+173,0.1.2.8.9.11.14.23.36.42.122.150.173,,,,,,0-1-2,0-1,1,3,-1
+174,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.174,,,,,,0-1-2,0-1,1,3,-1
+175,0.1.2.8.9.11.16.19.29.31.91.94.145.175,,,,,,0-1-2,0-1,1,3,-1
+176,0.1.2.8.9.11.16.19.25.27.33.78.110.176,,,,,,0-1-2,0-1,1,3,-1
+177,0.1.2.8.9.11.16.19.29.37.75.119.130.177,,,,,,0-1-2,0-1,1,3,-1
+178,0.1.2.8.9.11.14.23.36.42.122.137.178,,,,,,0-1-2,0-1,1,3,-1
+179,0.1.2.8.9.11.14.23.36.100.141.179,,,,,,0-1-2,0-1,1,3,-1
+168,0.1.2.8.9.11.14.23.120.153.168,,,,,,0-1-2,0-1,1,3,-1
+150,0.1.2.8.9.11.14.23.36.42.122.150,,,,,,0-1-2,0-1,1,3,-1
+149,0.1.2.8.9.11.14.109.149,,,,,,0-1-2,0-1,1,3,-1
+148,0.1.2.8.9.11.16.19.25.46.70.85.101.148,,,,,,0-1-2,0-1,1,3,-1
+108,0.1.2.8.9.11.16.21.30.71.84.108,,,,,,0-1-2,0-1,1,3,-1
+109,0.1.2.8.9.11.14.109,,,,,,0-1-2,0-1,1,3,-1
+110,0.1.2.8.9.11.16.19.25.27.33.78.110,,,,,,0-1-2,0-1,1,3,-1
+111,0.1.2.10.82.111,,,,,,0-1-2,0-1,1,3,-1
+118,0.1.2.8.9.11.16.21.30.71.84.104.118,,,,,,0-1-2,0-1,1,3,-1
+119,0.1.2.8.9.11.16.19.29.37.75.119,,,,,,0-1-2,0-1,1,3,-1
+120,0.1.2.8.9.11.14.23.120,,,,,,0-1-2,0-1,1,3,-1
+122,0.1.2.8.9.11.14.23.36.42.122,,,,,,0-1-2,0-1,1,3,-1
+124,0.1.2.8.9.11.16.19.25.27.35.88.107.124,,,,,,0-1-2,0-1,1,3,-1
+127,0.1.2.8.9.11.16.21.77.127,,,,,,0-1-2,0-1,1,3,-1
+130,0.1.2.8.9.11.16.19.29.37.75.119.130,,,,,,0-1-2,0-1,1,3,-1
+131,0.1.2.8.9.11.16.21.30.71.84.104.118.131,,,,,,0-1-2,0-1,1,3,-1
+132,0.1.2.8.9.11.16.19.29.37.99.132,,,,,,0-1-2,0-1,1,3,-1
+134,0.1.2.8.9.11.16.19.25.27.33.78.110.134,,,,,,0-1-2,0-1,1,3,-1
+136,0.1.2.8.9.11.14.23.36.42.43.74.95.136,,,,,,0-1-2,0-1,1,3,-1
+137,0.1.2.8.9.11.14.23.36.42.122.137,,,,,,0-1-2,0-1,1,3,-1
+138,0.1.2.10.82.111.138,,,,,,0-1-2,0-1,1,3,-1
+141,0.1.2.8.9.11.14.23.36.100.141,,,,,,0-1-2,0-1,1,3,-1
+143,0.1.2.8.9.11.14.23.120.143,,,,,,0-1-2,0-1,1,3,-1
+144,0.1.2.10.82.111.138.144,,,,,,0-1-2,0-1,1,3,-1
+145,0.1.2.8.9.11.16.19.29.31.91.94.145,,,,,,0-1-2,0-1,1,3,-1
+146,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146,,,,,,0-1-2,0-1,1,3,-1
+147,0.1.2.8.9.11.16.19.29.37.75.119.130.147,,,,,,0-1-2,0-1,1,3,-1
+288,0.1.2.8.9.11.14.23.36.42.43.74.95.136.180.209.249.288,,,,,,0-1-2,0-1,1,3,-1
+289,0.1.2.8.9.11.16.19.29.31.39.97.166.203.229.289,,,,,,0-1-2,0-1,1,3,-1
+287,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.231.287,,,,,,0-1-2,0-1,1,3,-1
+291,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.231.259.291,,,,,,0-1-2,0-1,1,3,-1
+421,0.1.2.8.9.11.16.19.25.46.70.85.101.148.220.335.367.421,,,,,,0-1-2,0-1,1,3,-1
+422,0.1.2.8.9.11.16.21.77.127.212.283.422,,,,,,0-1-2,0-1,1,3,-1
+423,0.1.2.8.9.11.14.109.149.216.423,,,,,,0-1-2,0-1,1,3,-1
+424,0.1.2.8.9.11.14.23.120.143.226.322.378.424,,,,,,0-1-2,0-1,1,3,-1
+425,0.1.2.8.9.11.14.23.36.42.122.137.178.232.243.277.314.425,,,,,,0-1-2,0-1,1,3,-1
+426,0.1.2.8.9.11.16.19.25.27.33.62.172.188.274.292.372.426,,,,,,0-1-2,0-1,1,3,-1
+427,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.224.323.368.399.427,,,,,,0-1-2,0-1,1,3,-1
+428,0.1.2.8.9.11.16.19.29.31.39.97.166.203.229.365.428,,,,,,0-1-2,0-1,1,3,-1
+429,0.1.2.8.9.11.14.109.149.216.264.285.376.429,,,,,,0-1-2,0-1,1,3,-1
+430,0.1.2.8.9.11.14.23.36.42.43.74.95.136.205.228.265.308.430,,,,,,0-1-2,0-1,1,3,-1
+420,0.1.2.8.9.11.14.109.149.216.264.395.420,,,,,,0-1-2,0-1,1,3,-1
+432,0.1.2.8.9.11.16.19.25.46.70.85.106.164.257.342.401.432,,,,,,0-1-2,0-1,1,3,-1
+434,0.1.2.10.82.251.300.349.434,,,,,,0-1-2,0-1,1,3,-1
+435,0.1.2.8.9.11.16.21.77.127.306.394.418.435,,,,,,0-1-2,0-1,1,3,-1
+436,0.1.2.8.9.11.16.19.25.46.70.85.101.148.220.335.436,,,,,,0-1-2,0-1,1,3,-1
+437,0.1.2.8.9.11.16.19.29.31.39.184.437,,,,,,0-1-2,0-1,1,3,-1
+438,0.1.2.8.9.11.16.21.77.127.306.394.438,,,,,,0-1-2,0-1,1,3,-1
+439,0.1.2.8.9.11.16.19.29.31.39.97.166.203.229.289.386.439,,,,,,0-1-2,0-1,1,3,-1
+441,0.1.2.8.9.11.16.19.25.46.70.85.106.164.257.342.377.441,,,,,,0-1-2,0-1,1,3,-1
+442,0.1.2.8.9.11.16.19.29.31.39.97.166.203.229.289.386.439.442,,,,,,0-1-2,0-1,1,3,-1
+443,0.1.2.8.9.11.14.23.36.42.43.162.186.282.298.301.412.443,,,,,,0-1-2,0-1,1,3,-1
+444,0.1.2.8.9.11.14.23.36.100.141.179.197.233.263.414.444,,,,,,0-1-2,0-1,1,3,-1
+433,0.1.2.8.9.11.16.21.77.127.212.253.312.388.433,,,,,,0-1-2,0-1,1,3,-1
+445,0.1.2.8.9.11.14.109.250.255.273.330.360.417.445,,,,,,0-1-2,0-1,1,3,-1
+419,0.1.2.8.9.11.16.19.25.27.33.78.110.134.252.271.309.419,,,,,,0-1-2,0-1,1,3,-1
+417,0.1.2.8.9.11.14.109.250.255.273.330.360.417,,,,,,0-1-2,0-1,1,3,-1
+395,0.1.2.8.9.11.14.109.149.216.264.395,,,,,,0-1-2,0-1,1,3,-1
+290,0.1.2.8.9.11.16.19.25.46.70.85.106.242.290,,,,,,0-1-2,0-1,1,3,-1
+397,0.1.2.8.9.11.14.23.36.42.43.74.95.136.205.228.265.308.397,,,,,,0-1-2,0-1,1,3,-1
+398,0.1.2.8.9.11.16.19.29.31.39.97.166.203.373.398,,,,,,0-1-2,0-1,1,3,-1
+399,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.224.323.368.399,,,,,,0-1-2,0-1,1,3,-1
+400,0.1.2.8.9.11.16.19.25.27.33.78.110.134.252.271.369.400,,,,,,0-1-2,0-1,1,3,-1
+401,0.1.2.8.9.11.16.19.25.46.70.85.106.164.257.342.401,,,,,,0-1-2,0-1,1,3,-1
+402,0.1.2.8.9.11.16.19.29.37.99.132.170.210.269.320.375.402,,,,,,0-1-2,0-1,1,3,-1
+403,0.1.2.8.9.11.14.23.120.143.226.322.403,,,,,,0-1-2,0-1,1,3,-1
+404,0.1.2.8.9.11.14.23.36.100.157.225.404,,,,,,0-1-2,0-1,1,3,-1
+418,0.1.2.8.9.11.16.21.77.127.306.394.418,,,,,,0-1-2,0-1,1,3,-1
+405,0.1.2.8.9.11.16.19.25.27.33.78.110.134.199.246.340.358.405,,,,,,0-1-2,0-1,1,3,-1
+407,0.1.2.10.82.111.138.144.181.331.407,,,,,,0-1-2,0-1,1,3,-1
+408,0.1.2.8.9.11.16.21.77.127.212.283.344.408,,,,,,0-1-2,0-1,1,3,-1
+409,0.1.2.8.9.11.16.19.29.31.39.184.338.409,,,,,,0-1-2,0-1,1,3,-1
+410,0.1.2.8.9.11.14.23.120.153.187.219.295.328.410,,,,,,0-1-2,0-1,1,3,-1
+411,0.1.2.10.82.111.260.327.356.411,,,,,,0-1-2,0-1,1,3,-1
+412,0.1.2.8.9.11.14.23.36.42.43.162.186.282.298.301.412,,,,,,0-1-2,0-1,1,3,-1
+413,0.1.2.8.9.11.14.109.250.255.273.330.413,,,,,,0-1-2,0-1,1,3,-1
+414,0.1.2.8.9.11.14.23.36.100.141.179.197.233.263.414,,,,,,0-1-2,0-1,1,3,-1
+415,0.1.2.8.9.11.14.23.120.143.226.357.415,,,,,,0-1-2,0-1,1,3,-1
+416,0.1.2.8.9.11.16.19.25.46.70.85.106.242.363.416,,,,,,0-1-2,0-1,1,3,-1
+406,0.1.2.8.9.11.16.21.30.71.84.104.193.275.348.406,,,,,,0-1-2,0-1,1,3,-1
+394,0.1.2.8.9.11.16.21.77.127.306.394,,,,,,0-1-2,0-1,1,3,-1
+446,0.1.2.8.9.11.16.19.29.37.99.185.200.213.307.337.446,,,,,,0-1-2,0-1,1,3,-1
+448,0.1.2.8.9.11.14.109.149.216.264.395.420.448,,,,,,0-1-2,0-1,1,3,-1
+477,0.1.2.8.9.11.16.21.77.127.212.283.344.408.Falcón (VE),LatinAmerica,SA,Venezuela,VE,Falcón,0-1-2,0-1,1,3,19
+478,0.1.2.8.9.11.16.21.77.98.Delta Amacuro (VE),LatinAmerica,SA,Venezuela,VE,Delta Amacuro,0-1-2,0-1,1,3,19
+479,0.1.2.8.9.11.16.21.77.127.306.361.Cojedes (VE),LatinAmerica,SA,Venezuela,VE,Cojedes,0-1-2,0-1,1,3,19
+480,0.1.2.8.9.11.16.21.77.127.212.253.312.388.433.Carabobo (VE),LatinAmerica,SA,Venezuela,VE,Carabobo,0-1-2,0-1,1,3,19
+481,0.1.2.8.9.11.16.21.77.127.306.394.438.Bolívar (VE),LatinAmerica,SA,Venezuela,VE,Bolívar,0-1-2,0-1,1,3,19
+482,0.1.2.8.9.11.16.21.77.127.306.394.418.435.452.453.460.Barinas (VE),LatinAmerica,SA,Venezuela,VE,Barinas,0-1-2,0-1,1,3,19
+483,0.1.2.8.9.11.16.21.77.127.212.253.312.388.433.454.Aragua (VE),LatinAmerica,SA,Venezuela,VE,Aragua,0-1-2,0-1,1,3,19
+484,0.1.2.8.9.11.16.21.77.127.306.361.Apure (VE),LatinAmerica,SA,Venezuela,VE,Apure,0-1-2,0-1,1,3,19
+485,0.1.2.8.9.11.16.21.77.127.212.283.344.408.Anzoátegui (VE),LatinAmerica,SA,Venezuela,VE,Anzoátegui,0-1-2,0-1,1,3,19
+486,0.1.2.8.9.11.16.21.77.98.Amazonas (VE),LatinAmerica,SA,Venezuela,VE,Amazonas,0-1-2,0-1,1,3,19
+476,0.1.2.8.9.11.16.21.77.127.306.394.418.435.452.453.Guárico (VE),LatinAmerica,SA,Venezuela,VE,Guárico,0-1-2,0-1,1,3,19
+487,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.192.198.215.Treinta y Tres Department (UY),LatinAmerica,SA,Uruguay,UY,Treinta y Tres Department,0-1-2,0-1,1,3,18
+489,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.174.194.Soriano Department (UY),LatinAmerica,SA,Uruguay,UY,Soriano Department,0-1-2,0-1,1,3,18
+490,0.1.2.8.9.11.16.19.29.37.75.119.130.177.211.San José Department (UY),LatinAmerica,SA,Uruguay,UY,San José Department,0-1-2,0-1,1,3,18
+491,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.192.198.267.315.Salto Department (UY),LatinAmerica,SA,Uruguay,UY,Salto Department,0-1-2,0-1,1,3,18
+492,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.174.189.Rocha Department (UY),LatinAmerica,SA,Uruguay,UY,Rocha Department,0-1-2,0-1,1,3,18
+493,0.1.2.8.9.11.16.19.29.37.75.119.214.Rivera Department (UY),LatinAmerica,SA,Uruguay,UY,Rivera Department,0-1-2,0-1,1,3,18
+494,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.174.194.Río Negro Department (UY),LatinAmerica,SA,Uruguay,UY,Río Negro Department,0-1-2,0-1,1,3,18
+495,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.192.198.267.315.Paysandú Department (UY),LatinAmerica,SA,Uruguay,UY,Paysandú Department,0-1-2,0-1,1,3,18
+496,0.1.2.8.9.11.16.19.29.37.75.119.130.177.345.387.Montevideo Department (UY),LatinAmerica,SA,Uruguay,UY,Montevideo Department,0-1-2,0-1,1,3,18
+497,0.1.2.8.9.11.16.19.29.37.75.119.130.177.345.Maldonado Department (UY),LatinAmerica,SA,Uruguay,UY,Maldonado Department,0-1-2,0-1,1,3,18
+498,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.174.189.Lavalleja Department (UY),LatinAmerica,SA,Uruguay,UY,Lavalleja Department,0-1-2,0-1,1,3,18
+488,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.192.198.267.Tacuarembó Department (UY),LatinAmerica,SA,Uruguay,UY,Tacuarembó Department,0-1-2,0-1,1,3,18
+447,0.1.2.10.82.251.266.318.447,,,,,,0-1-2,0-1,1,3,-1
+475,0.1.2.8.9.11.16.21.77.127.212.253.333.Lara (VE),LatinAmerica,SA,Venezuela,VE,Lara,0-1-2,0-1,1,3,19
+473,0.1.2.8.9.11.16.21.77.127.212.253.312.388.433.454.Miranda (VE),LatinAmerica,SA,Venezuela,VE,Miranda,0-1-2,0-1,1,3,19
+449,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.224.323.368.399.427.449,,,,,,0-1-2,0-1,1,3,-1
+450,0.1.2.8.9.11.14.23.36.42.43.162.396.450,,,,,,0-1-2,0-1,1,3,-1
+451,0.1.2.8.9.11.16.19.29.31.39.184.437.451,,,,,,0-1-2,0-1,1,3,-1
+452,0.1.2.8.9.11.16.21.77.127.306.394.418.435.452,,,,,,0-1-2,0-1,1,3,-1
+453,0.1.2.8.9.11.16.21.77.127.306.394.418.435.452.453,,,,,,0-1-2,0-1,1,3,-1
+454,0.1.2.8.9.11.16.21.77.127.212.253.312.388.433.454,,,,,,0-1-2,0-1,1,3,-1
+455,0.1.2.8.9.11.14.109.149.216.264.395.455,,,,,,0-1-2,0-1,1,3,-1
+456,0.1.2.8.9.11.14.109.149.182.456,,,,,,0-1-2,0-1,1,3,-1
+457,0.1.2.8.9.11.14.23.120.143.226.322.378.457,,,,,,0-1-2,0-1,1,3,-1
+459,0.1.2.8.9.11.16.19.29.37.99.132.158.313.459,,,,,,0-1-2,0-1,1,3,-1
+474,0.1.2.8.9.11.16.21.77.127.212.283.422.Mérida (VE),LatinAmerica,SA,Venezuela,VE,Mérida,0-1-2,0-1,1,3,19
+460,0.1.2.8.9.11.16.21.77.127.306.394.418.435.452.453.460,,,,,,0-1-2,0-1,1,3,-1
+923,0.1.2.8.9.11.16.19.29.37.99.132.170.210.269.320.375.402.Córdoba Province (AR),LatinAmerica,SA,Argentina,AR,Córdoba Province,0-1-2,0-1,1,3,0
+463,0.1.2.8.9.11.16.21.77.127.212.253.312.388.Capital District (VE),LatinAmerica,SA,Venezuela,VE,Capital District,0-1-2,0-1,1,3,19
+465,0.1.2.8.9.11.16.21.77.127.212.253.333.Zulia (VE),LatinAmerica,SA,Venezuela,VE,Zulia,0-1-2,0-1,1,3,19
+466,0.1.2.8.9.11.16.21.77.127.306.394.418.435.452.Yaracuy (VE),LatinAmerica,SA,Venezuela,VE,Yaracuy,0-1-2,0-1,1,3,19
+467,0.1.2.8.9.11.16.21.77.127.306.394.418.435.Trujillo (VE),LatinAmerica,SA,Venezuela,VE,Trujillo,0-1-2,0-1,1,3,19
+468,0.1.2.8.9.11.16.21.77.127.212.283.422.Táchira (VE),LatinAmerica,SA,Venezuela,VE,Táchira,0-1-2,0-1,1,3,19
+469,0.1.2.8.9.11.16.21.77.127.306.394.418.Sucre (VE),LatinAmerica,SA,Venezuela,VE,Sucre,0-1-2,0-1,1,3,19
+470,0.1.2.8.9.11.16.21.77.127.306.394.418.435.452.453.460.Portuguesa (VE),LatinAmerica,SA,Venezuela,VE,Portuguesa,0-1-2,0-1,1,3,19
+471,0.1.2.8.9.11.16.21.77.127.212.253.312.Nueva Esparta (VE),LatinAmerica,SA,Venezuela,VE,Nueva Esparta,0-1-2,0-1,1,3,19
+472,0.1.2.8.9.11.16.21.77.127.306.394.438.Monagas (VE),LatinAmerica,SA,Venezuela,VE,Monagas,0-1-2,0-1,1,3,19
+461,0.1.2.8.9.11.16.19.29.31.39.184.437.451.461,,,,,,0-1-2,0-1,1,3,-1
+393,0.1.2.8.9.11.16.19.29.37.99.132.158.313.393,,,,,,0-1-2,0-1,1,3,-1
+396,0.1.2.8.9.11.14.23.36.42.43.162.396,,,,,,0-1-2,0-1,1,3,-1
+391,0.1.2.8.9.11.14.109.149.182.381.391,,,,,,0-1-2,0-1,1,3,-1
+319,0.1.2.8.9.11.16.21.30.71.84.104.193.319,,,,,,0-1-2,0-1,1,3,-1
+320,0.1.2.8.9.11.16.19.29.37.99.132.170.210.269.320,,,,,,0-1-2,0-1,1,3,-1
+321,0.1.2.8.9.11.14.23.120.153.168.223.244.270.321,,,,,,0-1-2,0-1,1,3,-1
+322,0.1.2.8.9.11.14.23.120.143.226.322,,,,,,0-1-2,0-1,1,3,-1
+323,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.224.323,,,,,,0-1-2,0-1,1,3,-1
+324,0.1.2.8.9.11.16.19.25.46.70.85.106.242.290.324,,,,,,0-1-2,0-1,1,3,-1
+325,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.231.287.325,,,,,,0-1-2,0-1,1,3,-1
+326,0.1.2.8.9.11.16.19.25.46.70.85.101.148.220.326,,,,,,0-1-2,0-1,1,3,-1
+327,0.1.2.10.82.111.260.327,,,,,,0-1-2,0-1,1,3,-1
+328,0.1.2.8.9.11.14.23.120.153.187.219.295.328,,,,,,0-1-2,0-1,1,3,-1
+318,0.1.2.10.82.251.266.318,,,,,,0-1-2,0-1,1,3,-1
+329,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.222.248.284.329,,,,,,0-1-2,0-1,1,3,-1
+331,0.1.2.10.82.111.138.144.181.331,,,,,,0-1-2,0-1,1,3,-1
+332,0.1.2.8.9.11.14.23.36.100.141.179.197.233.263.332,,,,,,0-1-2,0-1,1,3,-1
+333,0.1.2.8.9.11.16.21.77.127.212.253.333,,,,,,0-1-2,0-1,1,3,-1
+334,0.1.2.8.9.11.14.23.120.143.227.334,,,,,,0-1-2,0-1,1,3,-1
+335,0.1.2.8.9.11.16.19.25.46.70.85.101.148.220.335,,,,,,0-1-2,0-1,1,3,-1
+336,0.1.2.8.9.11.14.23.120.143.227.336,,,,,,0-1-2,0-1,1,3,-1
+337,0.1.2.8.9.11.16.19.29.37.99.185.200.213.307.337,,,,,,0-1-2,0-1,1,3,-1
+338,0.1.2.8.9.11.16.19.29.31.39.184.338,,,,,,0-1-2,0-1,1,3,-1
+392,0.1.2.8.28.44.57.58.65.304.392,,,,,,0-1-2,0-1,1,3,-1
+340,0.1.2.8.9.11.16.19.25.27.33.78.110.134.199.246.340,,,,,,0-1-2,0-1,1,3,-1
+330,0.1.2.8.9.11.14.109.250.255.273.330,,,,,,0-1-2,0-1,1,3,-1
+341,0.1.2.8.9.11.14.23.120.153.168.223.244.270.321.341,,,,,,0-1-2,0-1,1,3,-1
+317,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.222.317,,,,,,0-1-2,0-1,1,3,-1
+315,0.1.2.8.9.11.16.19.29.37.75.119.130.147.169.192.198.267.315,,,,,,0-1-2,0-1,1,3,-1
+292,0.1.2.8.9.11.16.19.25.27.33.62.172.188.274.292,,,,,,0-1-2,0-1,1,3,-1
+293,0.1.2.10.82.111.138.293,,,,,,0-1-2,0-1,1,3,-1
+294,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.222.248.284.294,,,,,,0-1-2,0-1,1,3,-1
+295,0.1.2.8.9.11.14.23.120.153.187.219.295,,,,,,0-1-2,0-1,1,3,-1
+297,0.1.2.8.9.11.14.23.36.42.43.162.186.247.297,,,,,,0-1-2,0-1,1,3,-1
+298,0.1.2.8.9.11.14.23.36.42.43.162.186.282.298,,,,,,0-1-2,0-1,1,3,-1
+299,0.1.2.10.82.111.138.144.196.299,,,,,,0-1-2,0-1,1,3,-1
+300,0.1.2.10.82.251.300,,,,,,0-1-2,0-1,1,3,-1
+301,0.1.2.8.9.11.14.23.36.42.43.162.186.282.298.301,,,,,,0-1-2,0-1,1,3,-1
+302,0.1.2.8.9.11.16.19.25.27.33.78.110.134.199.278.302,,,,,,0-1-2,0-1,1,3,-1
+316,0.1.2.8.9.11.14.23.36.100.141.179.316,,,,,,0-1-2,0-1,1,3,-1
+303,0.1.2.8.9.11.14.23.120.153.168.223.303,,,,,,0-1-2,0-1,1,3,-1
+305,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.222.248.305,,,,,,0-1-2,0-1,1,3,-1
+306,0.1.2.8.9.11.16.21.77.127.306,,,,,,0-1-2,0-1,1,3,-1
+307,0.1.2.8.9.11.16.19.29.37.99.185.200.213.307,,,,,,0-1-2,0-1,1,3,-1
+308,0.1.2.8.9.11.14.23.36.42.43.74.95.136.205.228.265.308,,,,,,0-1-2,0-1,1,3,-1
+309,0.1.2.8.9.11.16.19.25.27.33.78.110.134.252.271.309,,,,,,0-1-2,0-1,1,3,-1
+310,0.1.2.8.9.11.14.23.36.100.157.225.280.310,,,,,,0-1-2,0-1,1,3,-1
+311,0.1.2.8.9.11.14.23.36.42.122.137.178.232.243.279.311,,,,,,0-1-2,0-1,1,3,-1
+312,0.1.2.8.9.11.16.21.77.127.212.253.312,,,,,,0-1-2,0-1,1,3,-1
+313,0.1.2.8.9.11.16.19.29.37.99.132.158.313,,,,,,0-1-2,0-1,1,3,-1
+314,0.1.2.8.9.11.14.23.36.42.122.137.178.232.243.277.314,,,,,,0-1-2,0-1,1,3,-1
+304,0.1.2.8.28.44.57.58.65.304,,,,,,0-1-2,0-1,1,3,-1
+342,0.1.2.8.9.11.16.19.25.46.70.85.106.164.257.342,,,,,,0-1-2,0-1,1,3,-1
+339,0.1.2.8.9.11.14.23.36.42.122.137.178.232.243.277.339,,,,,,0-1-2,0-1,1,3,-1
+344,0.1.2.8.9.11.16.21.77.127.212.283.344,,,,,,0-1-2,0-1,1,3,-1
+368,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.224.323.368,,,,,,0-1-2,0-1,1,3,-1
+343,0.1.2.8.9.11.16.19.25.46.70.85.106.164.190.195.239.343,,,,,,0-1-2,0-1,1,3,-1
+371,0.1.2.8.9.11.16.19.29.37.99.185.200.213.268.355.371,,,,,,0-1-2,0-1,1,3,-1
+372,0.1.2.8.9.11.16.19.25.27.33.62.172.188.274.292.372,,,,,,0-1-2,0-1,1,3,-1
+373,0.1.2.8.9.11.16.19.29.31.39.97.166.203.373,,,,,,0-1-2,0-1,1,3,-1
+374,0.1.2.8.9.11.14.23.36.42.43.74.95.136.180.209.249.288.374,,,,,,0-1-2,0-1,1,3,-1
+375,0.1.2.8.9.11.16.19.29.37.99.132.170.210.269.320.375,,,,,,0-1-2,0-1,1,3,-1
+376,0.1.2.8.9.11.14.109.149.216.264.285.376,,,,,,0-1-2,0-1,1,3,-1
+377,0.1.2.8.9.11.16.19.25.46.70.85.106.164.257.342.377,,,,,,0-1-2,0-1,1,3,-1
+378,0.1.2.8.9.11.14.23.120.143.226.322.378,,,,,,0-1-2,0-1,1,3,-1
+367,0.1.2.8.9.11.16.19.25.46.70.85.101.148.220.335.367,,,,,,0-1-2,0-1,1,3,-1
+379,0.1.2.10.82.111.138.144.181.261.379,,,,,,0-1-2,0-1,1,3,-1
+381,0.1.2.8.9.11.14.109.149.182.381,,,,,,0-1-2,0-1,1,3,-1
+382,0.1.2.10.82.251.266.382,,,,,,0-1-2,0-1,1,3,-1
+383,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.231.287.325.383,,,,,,0-1-2,0-1,1,3,-1
+384,0.1.2.8.9.11.16.19.29.37.99.185.200.213.268.384,,,,,,0-1-2,0-1,1,3,-1
+385,0.1.2.8.9.11.14.23.36.100.141.179.197.233.263.332.385,,,,,,0-1-2,0-1,1,3,-1
+386,0.1.2.8.9.11.16.19.29.31.39.97.166.203.229.289.386,,,,,,0-1-2,0-1,1,3,-1
+387,0.1.2.8.9.11.16.19.29.37.75.119.130.177.345.387,,,,,,0-1-2,0-1,1,3,-1
+388,0.1.2.8.9.11.16.21.77.127.212.253.312.388,,,,,,0-1-2,0-1,1,3,-1
+389,0.1.2.8.9.11.14.23.36.100.141.179.316.389,,,,,,0-1-2,0-1,1,3,-1
+390,0.1.2.8.9.11.14.23.36.100.141.179.197.233.263.332.390,,,,,,0-1-2,0-1,1,3,-1
+380,0.1.2.8.9.11.16.19.25.46.70.85.106.164.257.380,,,,,,0-1-2,0-1,1,3,-1
+366,0.1.2.8.9.11.14.23.120.153.187.237.276.366,,,,,,0-1-2,0-1,1,3,-1
+369,0.1.2.8.9.11.16.19.25.27.33.78.110.134.252.271.369,,,,,,0-1-2,0-1,1,3,-1
+364,0.1.2.10.82.111.138.144.181.261.364,,,,,,0-1-2,0-1,1,3,-1
+345,0.1.2.8.9.11.16.19.29.37.75.119.130.177.345,,,,,,0-1-2,0-1,1,3,-1
+346,0.1.2.8.9.11.16.19.25.27.33.62.172.188.274.292.346,,,,,,0-1-2,0-1,1,3,-1
+347,0.1.2.10.82.111.138.293.347,,,,,,0-1-2,0-1,1,3,-1
+348,0.1.2.8.9.11.16.21.30.71.84.104.193.275.348,,,,,,0-1-2,0-1,1,3,-1
+349,0.1.2.10.82.251.300.349,,,,,,0-1-2,0-1,1,3,-1
+350,0.1.2.8.9.11.16.21.30.71.84.104.118.131.161.224.323.350,,,,,,0-1-2,0-1,1,3,-1
+351,0.1.2.8.9.11.14.23.36.42.43.162.186.282.298.301.351,,,,,,0-1-2,0-1,1,3,-1
+352,0.1.2.8.9.11.16.19.25.27.35.88.107.124.146.154.160.221.231.259.291.352,,,,,,0-1-2,0-1,1,3,-1
+365,0.1.2.8.9.11.16.19.29.31.39.97.166.203.229.365,,,,,,0-1-2,0-1,1,3,-1
+354,0.1.2.8.9.11.14.23.120.153.168.223.303.354,,,,,,0-1-2,0-1,1,3,-1
+355,0.1.2.8.9.11.16.19.29.37.99.185.200.213.268.355,,,,,,0-1-2,0-1,1,3,-1
+353,0.1.2.8.9.11.14.23.36.42.122.137.178.353,,,,,,0-1-2,0-1,1,3,-1
+361,0.1.2.8.9.11.16.21.77.127.306.361,,,,,,0-1-2,0-1,1,3,-1
+363,0.1.2.8.9.11.16.19.25.46.70.85.106.242.363,,,,,,0-1-2,0-1,1,3,-1
+362,0.1.2.8.9.11.16.19.25.27.33.78.110.176.218.236.362,,,,,,0-1-2,0-1,1,3,-1
+360,0.1.2.8.9.11.14.109.250.255.273.330.360,,,,,,0-1-2,0-1,1,3,-1
+359,0.1.2.8.9.11.14.23.36.42.43.162.186.247.297.359,,,,,,0-1-2,0-1,1,3,-1
+358,0.1.2.8.9.11.16.19.25.27.33.78.110.134.199.246.340.358,,,,,,0-1-2,0-1,1,3,-1
+924,0.1.2.8.9.11.16.19.29.37.99.132.158.313.393.Chubut (AR),LatinAmerica,SA,Argentina,AR,Chubut,0-1-2,0-1,1,3,0
+357,0.1.2.8.9.11.14.23.120.143.226.357,,,,,,0-1-2,0-1,1,3,-1
+356,0.1.2.10.82.111.260.327.356,,,,,,0-1-2,0-1,1,3,-1
+3,0.3,,,,,,0-3,0-3,2,4,-1
+643,0.3.4.5.Kuna de Madugandí (PA),LatinAmerica,NA,Panama,PA,Kuna de Madugandí,0-3-4,0-3,2,5,14
+810,0.3.4.5.6.Hermanas Mirabal Province (DO),LatinAmerica,NA,Dominican Republic,DO,Hermanas Mirabal Province,0-3-4,0-3,2,5,6
+6,0.3.4.5.6,,,,,,0-3-4,0-3,2,5,-1
+5,0.3.4.5,,,,,,0-3-4,0-3,2,5,-1
+4,0.3.4,,,,,,0-3-4,0-3,2,5,-1
+645,0.3.4.5.6.Ngäbe-Buglé Comarca (PA),LatinAmerica,NA,Panama,PA,Ngäbe-Buglé Comarca,0-3-4,0-3,2,5,14
+642,0.3.4.Kuna de Wargandí (PA),LatinAmerica,NA,Panama,PA,Kuna de Wargandí,0-3-4,0-3,2,5,14
+464,0.3.7.Federal Dependencies of Venezuela (VE),LatinAmerica,SA,Venezuela,VE,Federal Dependencies of Venezuela,0-3-7,0-3,2,6,19
+7,0.3.7,,,,,,0-3-7,0-3,2,6,-1
+520,0.3.7.Chaco (PY),LatinAmerica,SA,Paraguay,PY,Chaco,0-3-7,0-3,2,6,15

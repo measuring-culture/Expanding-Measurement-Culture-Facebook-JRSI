@@ -1,0 +1,264 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+
+    <!-- <link rel="stylesheet" href="dendrogram.css" /> -->
+
+
+<style>
+    body {
+      font-family: 'Roboto Condensed', sans-serif;
+    }
+    .node circle  {
+      fill: #999;
+    }
+
+    .node circle.cluster-one {
+      fill: #CC6677;
+    }
+
+    .node circle.cluster-two {
+      fill: #4477AA;
+    }
+
+    .node circle.cluster-three {
+      fill: #DDCC77;
+    }
+
+    .node circle.cluster-four {
+      fill: #2CA25F;
+    }
+
+    .node circle.cluster-five {
+      fill: #DD1C77;
+    }
+
+    .node circle.cluster-six{
+      fill: #D95F0E;
+    }
+
+
+    .node text {
+      font-size: 10px;
+      line-height: 1.4;
+    }
+
+    .light-brown {
+      fill: #8c564b;
+    }
+
+    .grey {
+      fill: #7f7f7f;
+    }
+
+    .magenta {
+      fill: #e377c2;
+    }
+
+    .bright-green {
+      fill: #2ca02c;
+    }
+
+    .purple {
+      fill: #9467bd;
+    }
+
+    .light-military-green {
+      fill: #bcbd22;
+    }
+
+    .light-red {
+      fill: #d62728;
+    }
+
+    .orange {
+      fill: #ff7f0e;
+    }
+
+    .cyan {
+      fill: #17becf;
+    }
+
+
+    .node--internal text {
+      text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+    }
+
+    .link {
+      fill: none;
+      stroke: #555;
+      stroke-opacity: 0.4;
+      stroke-width: 2.5px;
+    }
+
+    .link.cluster-one {
+      stroke: #CC6677;
+    }
+
+    .link.cluster-two {
+      stroke: #4477AA;
+    }
+
+    .link.cluster-three {
+      stroke: #DDCC77;
+    }
+
+    .link.cluster-four {
+      stroke: #2CA25F;
+    }
+
+    .link.cluster-five {
+      stroke: #DD1C77;
+    }
+
+    .link.cluster-six{
+      stroke: #D95F0E;
+    }
+
+    </style>
+  </head>
+  <body>
+
+    <svg id="img_US_regions" width="1200" height="1200"></svg>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <svg id="img_countries_WVS" width="1200" height="1200"></svg>
+
+    <script>
+      var width = 900,
+          height = 900;
+
+    //require(['d3'], function (d3) {
+
+      var svg = d3.select("#img_countries_WVS"),
+          g = svg.append("g").attr("transform", "translate(" + ((width / 2)+80) +
+                              "," + (height / 2 + 20) + ")"),
+          legend = svg.append("g");
+
+
+      var stratify = d3.stratify()
+                       .parentId(function(d)
+                          { return d.id.substring(0, d.id.lastIndexOf(".")); });
+
+      var cluster = d3.cluster()
+                      .size([360, width / 2 - 120]);
+
+      function project(x, y) {
+        var angle = (x - 90) / 180 * Math.PI, radius = y;
+        return [radius * Math.cos(angle), radius * Math.sin(angle)];
+      }
+
+
+      d3.csv("data/Dendrograms/dendrogram_Countries_WVS.csv", function(error, data) {
+        if (error) throw error;
+
+        var root = stratify(data).sort(function(a, b) {
+                        return a.height - b.height || a.id.localeCompare(b.id);
+                      });
+
+        cluster(root);
+
+        var link = g.selectAll(".link")
+                    .data(root.descendants().slice(1))
+                    .enter().append("path")
+                    .attr("d", function(d) {
+                      return "M" + project(d.x, d.y)
+                          + "C" + project(d.x, (d.y + d.parent.y) / 2)
+                          + " " + project(d.parent.x, (d.y + d.parent.y) / 2)
+                          + " " + project(d.parent.x, d.parent.y);
+                    });
+
+      link.attr("class", function(d) {
+              var id = d.data.id;
+              if (id[2]== "1") {
+                  return "link cluster-one";
+              } else if (id[2] == "4") {
+                  return "link cluster-two";
+              } else {
+                return "link";
+              }
+
+
+            });
+
+        var node = g.selectAll(".node")
+                    .data(root.descendants())
+                    .enter().append("g")
+                    .attr("class", function(d) {
+                      return "node" + (d.children ? " node--internal" : " node--leaf");
+                    })
+                    .attr("transform", function(d) {
+                      return "translate(" + project(d.x, d.y) + ")";
+                    });
+
+        var leaf = g.selectAll(".node--leaf")
+                    .append("circle")
+                    .attr("r", 3)
+                    .classed("cluster-one", function(d){
+                      var id = d.data.id;
+                      return (id[2] == "1");
+                    })
+                    .classed("cluster-two", function(d){
+                      var id = d.data.id;
+                      return (id[2]== "4") ;
+                    });
+
+        node.append("text")
+            .attr("dy", "0.31em")
+            .attr("x", function(d) {
+              return d.x < 180 === !d.children ? 6 : -6;
+            })
+            .style("text-anchor", function(d) {
+              return d.x < 180 === !d.children ? "start" : "end";
+            })
+            .attr("transform", function(d) {
+              return "rotate(" + (d.x < 180 ? d.x - 90 : d.x + 90) + ")";
+            })
+            .text(function(d) {
+              if (typeof d.children == "undefined") {
+                  return d.id.substring(d.id.lastIndexOf(".") + 1);
+              }
+            })
+            .attr("class", function(d){
+              var id = d.data.id;
+              console.log("slice",id.slice(2,15));
+
+              if (id.slice(2,6)== "4.11") {
+                  return "orange";
+              } else if (id.slice(2,5) == "4.6") {
+                  return "bright-green";
+              } else if (id.slice(2,5) == "1.9") {
+                   return "light-red";
+              } else if (id.slice(2,7) == "1.2.3") {
+                return "purple";
+              } else if (id.slice(2,13) == "1.2.5.10.17") {
+                return "light-brown";
+              } else if (id.slice(2,13) == "1.2.5.10.14") {
+                return "magenta";
+              } else if (id.slice(2,12) == "1.2.5.7.15") {
+                return "grey";
+              } else if (id.slice(2,15) == "1.2.5.7.16.26") {
+                return "light-military-green";
+              } else if (id.slice(2,15) == "1.2.5.7.16.27") {
+                return "cyan";
+              } else {
+                return "black";
+              }
+
+            });
+      });
+    //});
+    </script>
+</body>
