@@ -15,6 +15,47 @@ http://doi.org/10.1098/rsif.2022.0085
 
 # Downloads
 
+Below you can find the links to download our cultural distances based on Facebook data. 
+
+## Country-level [(All data - zip)](./data/OriginalData/Country-level.zip)
+
+* All Interests - Cosine distances [(Stata)](./data/OriginalData/FBCosDist.dta) [(CSV)](./data/OriginalData/FBCosDist.csv)
+* All Interests - Euclidean distances [(Stata)](./data/OriginalData/FBEucDist.dta) [(CSV)](./data/OriginalData/FBEucDist.csv)
+
+### Interest Categories - Cosine Distances
+* Business & Industry Interests - [(Stata)]( ./data/OriginalData/FBCosDist_BusinessIndustry.csv )  [(CSV)]( ./data/OriginalData/FBCosDist_BusinessIndustry.csv ) 
+*  Education Interests - [(Stata)]( ./data/OriginalData/FBCosDist_Education.csv )  [(CSV)]( ./data/OriginalData/FBCosDist_Education.csv )
+*  Family & Relationships Interests - [(Stata)]( ./data/OriginalData/FBCosDist_FamilyRelationships.csv )  [(CSV)]( ./data/OriginalData/FBCosDist_FamilyRelationships.csv ) 
+*  Fitness & Wellness Interests - [(Stata)]( ./data/OriginalData/FBCosDist_FitnessWellness.csv )  [(CSV)]( ./data/OriginalData/FBCosDist_FitnessWellness.csv ) 
+*  Food & Drink Interests - [(Stata)]( ./data/OriginalData/FBCosDist_FoodDrink.csv )  [(CSV)]( ./data/OriginalData/FBCosDist_FoodDrink.csv ) 
+*  Hobbies & Activities Interests - [(Stata)]( ./data/OriginalData/FBCosDist_HobbiesActivities.csv )  [(CSV)]( ./data/OriginalData/FBCosDist_HobbiesActivities.csv ) 
+*  Lifestyle & Culture Interests - [(Stata)]( ./data/OriginalData/FBCosDist_LifestyleCulture.csv )  [(CSV)]( ./data/OriginalData/FBCosDist_LifestyleCulture.csv ) 
+*  News & Entertainment Interests  - [(Stata)]( ./data/OriginalData/FBCosDist_NewsEntertainment.csv )  [(CSV)]( ./data/OriginalData/FBCosDist_NewsEntertainment.csv ) 
+*  Non-Local Business Interests  - [(Stata)]( ./data/OriginalData/FBCosDist_NonLocalBus.csv )  [(CSV)]( ./data/OriginalData/FBCosDist_NonLocalBus.csv ) 
+*  People Interests - [(Stata)]( ./data/OriginalData/FBCosDist_People.csv )  [(CSV)]( ./data/OriginalData/FBCosDist_People.csv ) 
+*  Shopping & Fashion Interests - [(Stata)]( ./data/OriginalData/FBCosDist_ShoppingFashion.csv )  [(CSV)]( ./data/OriginalData/FBCosDist_ShoppingFashion.csv ) 
+*  Sports & Outdoors Interests - [(Stata)]( ./data/OriginalData/FBCosDist_SportsOutdoors.csv )  [(CSV)]( ./data/OriginalData/FBCosDist_SportsOutdoors.csv ) 
+*  Technology Interests - [(Stata)]( ./data/OriginalData/FBCosDist_Technology.csv )  [(CSV)]( ./data/OriginalData/FBCosDist_Technology.csv ) 
+*  Travel, Places, & Events Interests - [(Stata)]( ./data/OriginalData/FBCosDist_TravelPlacesEvents.csv )  [(CSV)]( ./data/OriginalData/FBCosDist_TravelPlacesEvents.csv ) 
+*  Uncategorized Interests - [(Stata)]( ./data/OriginalData/FBCosDist_Empty.csv )  [(CSV)]( ./data/OriginalData/FBCosDist_Empty.csv ) 
+
+### Interest Categories - Euclidean Distances
+* Business & Industry Interests - [(Stata)]( ./data/OriginalData/FBEucDist_BusinessIndustry.csv )  [(CSV)]( ./data/OriginalData/FBEucDist_BusinessIndustry.csv ) 
+*  Education Interests - [(Stata)]( ./data/OriginalData/FBEucDist_Education.csv )  [(CSV)]( ./data/OriginalData/FBEucDist_Education.csv )
+*  Family & Relationships Interests - [(Stata)]( ./data/OriginalData/FBEucDist_FamilyRelationships.csv )  [(CSV)]( ./data/OriginalData/FBEucDist_FamilyRelationships.csv ) 
+*  Fitness & Wellness Interests - [(Stata)]( ./data/OriginalData/FBEucDist_FitnessWellness.csv )  [(CSV)]( ./data/OriginalData/FBEucDist_FitnessWellness.csv ) 
+*  Food & Drink Interests - [(Stata)]( ./data/OriginalData/FBEucDist_FoodDrink.csv )  [(CSV)]( ./data/OriginalData/FBEucDist_FoodDrink.csv ) 
+*  Hobbies & Activities Interests - [(Stata)]( ./data/OriginalData/FBEucDist_HobbiesActivities.csv )  [(CSV)]( ./data/OriginalData/FBEucDist_HobbiesActivities.csv ) 
+*  Lifestyle & Culture Interests - [(Stata)]( ./data/OriginalData/FBEucDist_LifestyleCulture.csv )  [(CSV)]( ./data/OriginalData/FBEucDist_LifestyleCulture.csv ) 
+*  News & Entertainment Interests  - [(Stata)]( ./data/OriginalData/FBEucDist_NewsEntertainment.csv )  [(CSV)]( ./data/OriginalData/FBEucDist_NewsEntertainment.csv ) 
+*  Non-Local Business Interests  - [(Stata)]( ./data/OriginalData/FBEucDist_NonLocalBus.csv )  [(CSV)]( ./data/OriginalData/FBEucDist_NonLocalBus.csv ) 
+*  People Interests - [(Stata)]( ./data/OriginalData/FBEucDist_People.csv )  [(CSV)]( ./data/OriginalData/FBEucDist_People.csv ) 
+*  Shopping & Fashion Interests - [(Stata)]( ./data/OriginalData/FBEucDist_ShoppingFashion.csv )  [(CSV)]( ./data/OriginalData/FBEucDist_ShoppingFashion.csv ) 
+*  Sports & Outdoors Interests - [(Stata)]( ./data/OriginalData/FBEucDist_SportsOutdoors.csv )  [(CSV)]( ./data/OriginalData/FBEucDist_SportsOutdoors.csv ) 
+*  Technology Interests - [(Stata)]( ./data/OriginalData/FBEucDist_Technology.csv )  [(CSV)]( ./data/OriginalData/FBEucDist_Technology.csv ) 
+*  Travel, Places, & Events Interests - [(Stata)]( ./data/OriginalData/FBEucDist_TravelPlacesEvents.csv )  [(CSV)]( ./data/OriginalData/FBEucDist_TravelPlacesEvents.csv ) 
+*  Uncategorized Interests - [(Stata)]( ./data/OriginalData/FBEucDist_Empty.csv )  [(CSV)]( ./data/OriginalData/FBEucDist_Empty.csv ) 
+
 # Computation and Replication
 
 We have created a set of notebooks to help replicate our main analyses. Download them to perform your own computations. To analyze the data online use our [Binder](https://mybinder.org/v2/gh/measuring-culture/Expanding-Measurement-Culture-Facebook-JRSI/main?urlpath=lab).
