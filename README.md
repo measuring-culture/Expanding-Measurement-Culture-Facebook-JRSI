@@ -93,3 +93,4 @@ This data is provided under [Creative Commons Attribution-ShareAlike 4.0 Interna
 [<img src="./pics/SMUlogowWordmarkRB.jpg?raw=true" width="250">](http://omerozak.com)
 [<img src="./pics/UC3M.png?raw=true" width="200">]()
 [<img src="./pics/MIT.png?raw=true" width="140">]()
+[<img src="./pics/MPI.jpg?raw=true" width="140">]()
