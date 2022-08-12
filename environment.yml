@@ -16,6 +16,8 @@ dependencies:
   - linearmodels
   - matplotlib
   - pandas
+  - pandas-datareader
+  - geocoder
   - pandasql
   - partd
   - psutil
@@ -29,5 +31,5 @@ dependencies:
   - toolz
   - pip
   - pip:
-      googledrivedownloader
-      pandas_datareader
+      - googledrivedownloader
+      - geonamescache
