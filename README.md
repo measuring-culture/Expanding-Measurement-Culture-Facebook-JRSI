@@ -13,7 +13,7 @@ Obradovich Nick, Özak Ömer, Martín Ignacio, Ortuño-Ortín Ignacio, Awad Edmo
 http://doi.org/10.1098/rsif.2022.0085
 ```
 
-# Google Studio Dashboard
+### Google Studio Dashboard
 
 We have constructed a simple dashboard that you can use to see the data (and use it to create you own dashboards). As setup, it starts by showing the average cultural distance from each country to all others according to our Facebook culturakl distance measure.
 
